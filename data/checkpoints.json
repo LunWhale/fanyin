@@ -1,0 +1,1598 @@
+[
+  {
+    "id": "c01",
+    "unit": 1,
+    "title": "第一单元测验：听音辨字",
+    "pass": 0.85,
+    "color": "#C2410C",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「罗摩（人名）」是哪一个词？",
+        "sa": "rāmaḥ",
+        "answer": 3,
+        "options": [
+          "namaḥ",
+          "gajaḥ",
+          "jalam",
+          "rāmaḥ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "vanam",
+        "answer": 2,
+        "options": [
+          "山",
+          "一",
+          "森林",
+          "母亲"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「母亲」",
+        "zh": "母亲",
+        "sa": "mātṛ",
+        "answer": "mātṛ",
+        "accept": [
+          "mātṛ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "etat",
+        "answer": 2,
+        "options": [
+          "肢体；身体",
+          "军队",
+          "这个",
+          "光力；活力"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「光力；活力」是哪一个词？",
+        "sa": "ojas",
+        "answer": 3,
+        "options": [
+          "giriḥ",
+          "vanam",
+          "pitṛ",
+          "ojas"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「和；也」",
+        "zh": "和；也",
+        "sa": "ca",
+        "answer": "ca",
+        "accept": [
+          "ca"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「知识；智慧」是哪一个词？",
+        "sa": "jñānam",
+        "answer": 3,
+        "options": [
+          "pitṛ",
+          "mātṛ",
+          "ṛṣiḥ",
+          "jñānam"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "taṭam",
+        "answer": 1,
+        "options": [
+          "眼睛",
+          "岸；河岸",
+          "杖；惩罚",
+          "如此；这样"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「如此；这样」",
+        "zh": "如此；这样",
+        "sa": "tathā",
+        "answer": "tathā",
+        "accept": [
+          "tathā"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "tapaḥ",
+        "answer": 0,
+        "options": [
+          "苦行；热力",
+          "果实；结果",
+          "和平；寂静",
+          "不要（禁止）"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c02",
+    "unit": 2,
+    "title": "第二单元测验：我是谁",
+    "pass": 0.85,
+    "color": "#B45309",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「你」是哪一个词？",
+        "sa": "tvam",
+        "answer": 3,
+        "options": [
+          "aham",
+          "sā",
+          "saḥ",
+          "tvam"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "tat",
+        "answer": 2,
+        "options": [
+          "我是",
+          "平静的",
+          "它；那个",
+          "他是；有"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「他是；有」",
+        "zh": "他是；有",
+        "sa": "asti",
+        "answer": "asti",
+        "accept": [
+          "asti"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "dīrghaḥ",
+        "answer": 2,
+        "options": [
+          "谁（阴性）",
+          "短的",
+          "长的",
+          "粗壮的；胖的"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「粗壮的；胖的」是哪一个词？",
+        "sa": "sthūlaḥ",
+        "answer": 3,
+        "options": [
+          "asmi",
+          "tat",
+          "asi",
+          "sthūlaḥ"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「什么」",
+        "zh": "什么",
+        "sa": "kim",
+        "answer": "kim",
+        "accept": [
+          "kim"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「难道不……吗」是哪一个词？",
+        "sa": "nanu",
+        "answer": 3,
+        "options": [
+          "asi",
+          "asti",
+          "sundaraḥ",
+          "nanu"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "atra",
+        "answer": 1,
+        "options": [
+          "我的",
+          "这里",
+          "那里",
+          "虚假；不真实"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「虚假；不真实」",
+        "zh": "虚假；不真实",
+        "sa": "asatyam",
+        "answer": "asatyam",
+        "accept": [
+          "asatyam"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "tava",
+        "answer": 0,
+        "options": [
+          "你的",
+          "您（男）",
+          "你",
+          "请；恩惠"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c03",
+    "unit": 3,
+    "title": "第三单元测验：我的家",
+    "pass": 0.85,
+    "color": "#15803D",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「家庭；家人」是哪一个词？",
+        "sa": "kutumbaḥ",
+        "answer": 3,
+        "options": [
+          "gṛham",
+          "mitram",
+          "svajanāḥ",
+          "kutumbaḥ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "nagaram",
+        "answer": 2,
+        "options": [
+          "村；村庄",
+          "姐妹",
+          "城；城市",
+          "父亲"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「父亲」",
+        "zh": "父亲",
+        "sa": "pitā",
+        "answer": "pitā",
+        "accept": [
+          "pitā"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "duhitā",
+        "answer": 2,
+        "options": [
+          "藤；蔓",
+          "妻子",
+          "女儿",
+          "儿子"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「儿子」是哪一个词？",
+        "sa": "putraḥ",
+        "answer": 3,
+        "options": [
+          "grāmaḥ",
+          "nagaram",
+          "mātā",
+          "putraḥ"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「河」",
+        "zh": "河",
+        "sa": "nadī",
+        "answer": "nadī",
+        "accept": [
+          "nadī"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「吉祥的（阴性）」是哪一个词？",
+        "sa": "śubhā",
+        "answer": 3,
+        "options": [
+          "mātā",
+          "pitā",
+          "bhrātā",
+          "śubhā"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "kutra",
+        "answer": 1,
+        "options": [
+          "男孩；孩子",
+          "哪里",
+          "有；是（单数）",
+          "许多的（阳性复数）"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「许多的（阳性复数）」",
+        "zh": "许多的（阳性复数）",
+        "sa": "bahavaḥ",
+        "answer": "bahavaḥ",
+        "accept": [
+          "bahavaḥ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "bālikā",
+        "answer": 0,
+        "options": [
+          "女孩",
+          "美的（中性）",
+          "家；房子",
+          "住处；居所"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c04",
+    "unit": 4,
+    "title": "第四单元测验：在店里",
+    "pass": 0.85,
+    "color": "#0F766E",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「奶；牛奶」是哪一个词？",
+        "sa": "dugdham",
+        "answer": 3,
+        "options": [
+          "annam",
+          "tiktam",
+          "svādu",
+          "dugdham"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "uṣṇam",
+        "answer": 2,
+        "options": [
+          "凉的",
+          "说；讲话",
+          "热的",
+          "喝"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「喝」",
+        "zh": "喝",
+        "sa": "pibati",
+        "answer": "pibati",
+        "accept": [
+          "pibati"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "hasati",
+        "answer": 2,
+        "options": [
+          "森林",
+          "走；移动",
+          "笑",
+          "水"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「水」是哪一个词？",
+        "sa": "jalam",
+        "answer": 3,
+        "options": [
+          "śītalam",
+          "uṣṇam",
+          "khādati",
+          "jalam"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「花」",
+        "zh": "花",
+        "sa": "puṣpam",
+        "answer": "puṣpam",
+        "accept": [
+          "puṣpam"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「书」是哪一个词？",
+        "sa": "pustakam",
+        "answer": 3,
+        "options": [
+          "khādati",
+          "pibati",
+          "paṭhati",
+          "pustakam"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "āpaṇaḥ",
+        "answer": 1,
+        "options": [
+          "几个；多少",
+          "店；市场",
+          "货物；物品",
+          "饮用水"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「饮用水」",
+        "zh": "饮用水",
+        "sa": "pānīyam",
+        "answer": "pānīyam",
+        "accept": [
+          "pānīyam"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "rūpyakāḥ",
+        "answer": 0,
+        "options": [
+          "卢比（复数）",
+          "十",
+          "苦的",
+          "奶；牛奶"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c05",
+    "unit": 5,
+    "title": "第五单元测验：我的一天",
+    "pass": 0.85,
+    "color": "#1D4ED8",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「他走；他去」是哪一个词？",
+        "sa": "gacchati",
+        "answer": 3,
+        "options": [
+          "bhavati",
+          "śṛṇoti",
+          "tiṣṭhati",
+          "gacchati"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "paśyati",
+        "answer": 2,
+        "options": [
+          "他带领",
+          "他满意；他高兴",
+          "他看；他看见",
+          "他讲；他讲述"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「他讲；他讲述」",
+        "zh": "他讲；他讲述",
+        "sa": "kathayati",
+        "answer": "kathayati",
+        "accept": [
+          "kathayati"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "kṣipati",
+        "answer": 2,
+        "options": [
+          "再；又一次",
+          "话；故事",
+          "他扔；他投",
+          "快；迅速地"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「快；迅速地」是哪一个词？",
+        "sa": "śīghram",
+        "answer": 3,
+        "options": [
+          "nayati",
+          "paśyati",
+          "likhati",
+          "śīghram"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「一起」",
+        "zh": "一起",
+        "sa": "saha",
+        "answer": "saha",
+        "accept": [
+          "saha"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「现在；此刻」是哪一个词？",
+        "sa": "idānīm",
+        "answer": 3,
+        "options": [
+          "likhati",
+          "kathayati",
+          "nṛtyati",
+          "idānīm"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "satatam",
+        "answer": 1,
+        "options": [
+          "学校；厅堂",
+          "总是；不断地",
+          "也；甚至",
+          "日子；一天"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「日子；一天」",
+        "zh": "日子；一天",
+        "sa": "dinam",
+        "answer": "dinam",
+        "accept": [
+          "dinam"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "bhojanam",
+        "answer": 0,
+        "options": [
+          "饭；用餐",
+          "睡眠",
+          "他站；他停留",
+          "他是；他成为"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c06",
+    "unit": 6,
+    "title": "第六单元测验：市场",
+    "pass": 0.85,
+    "color": "#6D28D9",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「二」是哪一个词？",
+        "sa": "dvi",
+        "answer": 3,
+        "options": [
+          "eka",
+          "catur",
+          "tri",
+          "dvi"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "pañca",
+        "answer": 2,
+        "options": [
+          "六",
+          "十",
+          "五",
+          "八"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「八」",
+        "zh": "八",
+        "sa": "aṣṭa",
+        "answer": "aṣṭa",
+        "accept": [
+          "aṣṭa"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "hastaḥ",
+        "answer": 2,
+        "options": [
+          "眼睛",
+          "脚",
+          "手",
+          "朋友；同伴"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「朋友；同伴」是哪一个词？",
+        "sa": "sahāyaḥ",
+        "answer": 3,
+        "options": [
+          "ṣaṣ",
+          "pañca",
+          "sapta",
+          "sahāyaḥ"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「和儿子们；用儿子们」",
+        "zh": "和儿子们；用儿子们",
+        "sa": "putraiḥ",
+        "answer": "putraiḥ",
+        "accept": [
+          "putraiḥ"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「和孩子们」是哪一个词？",
+        "sa": "bālaiḥ",
+        "answer": 3,
+        "options": [
+          "sapta",
+          "aṣṭa",
+          "nava",
+          "bālaiḥ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "dadāti",
+        "answer": 1,
+        "options": [
+          "价钱；价值",
+          "他给",
+          "我给",
+          "乞士；出家人"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「乞士；出家人」",
+        "zh": "乞士；出家人",
+        "sa": "bhikṣuḥ",
+        "answer": "bhikṣuḥ",
+        "accept": [
+          "bhikṣuḥ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "kasmai",
+        "answer": 0,
+        "options": [
+          "给谁",
+          "多少（可数）",
+          "感谢；谢谢",
+          "好；行；善"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c07",
+    "unit": 7,
+    "title": "第七单元测验：问路",
+    "pass": 0.85,
+    "color": "#9D174D",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「在城里」是哪一个词？",
+        "sa": "nagare",
+        "answer": 3,
+        "options": [
+          "gṛhe",
+          "pṛthivyām",
+          "vane",
+          "nagare"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "udake",
+        "answer": 2,
+        "options": [
+          "在村里",
+          "从村里",
+          "在水中",
+          "从家里"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「从家里」",
+        "zh": "从家里",
+        "sa": "gṛhāt",
+        "answer": "gṛhāt",
+        "accept": [
+          "gṛhāt"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "vanāt",
+        "answer": 2,
+        "options": [
+          "人们的",
+          "从哪儿",
+          "从森林里",
+          "远"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「远」是哪一个词？",
+        "sa": "dūram",
+        "answer": 3,
+        "options": [
+          "grāme",
+          "udake",
+          "mārge",
+          "dūram"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「所有的」",
+        "zh": "所有的",
+        "sa": "sarveṣām",
+        "answer": "sarveṣām",
+        "accept": [
+          "sarveṣām"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「家人们的」是哪一个词？",
+        "sa": "kutumbānām",
+        "answer": 3,
+        "options": [
+          "mārge",
+          "gṛhāt",
+          "nagarāt",
+          "kutumbānām"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "hyas",
+        "answer": 1,
+        "options": [
+          "在远处",
+          "昨天",
+          "何时",
+          "此刻；现在"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「此刻；现在」",
+        "zh": "此刻；现在",
+        "sa": "saṃprati",
+        "answer": "saṃprati",
+        "accept": [
+          "saṃprati"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "mārgaḥ",
+        "answer": 0,
+        "options": [
+          "路；道路",
+          "市场；店铺",
+          "在城里",
+          "在左边"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c08",
+    "unit": 8,
+    "title": "第八单元测验：昨天",
+    "pass": 0.85,
+    "color": "#A16207",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「他去了」是哪一个词？",
+        "sa": "agacchat",
+        "answer": 3,
+        "options": [
+          "agaccham",
+          "abhavam",
+          "agacchan",
+          "agacchat"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "abhavat",
+        "answer": 2,
+        "options": [
+          "我看见了",
+          "他读了",
+          "他曾是；他当时在",
+          "他吃了"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「他吃了」",
+        "zh": "他吃了",
+        "sa": "akhādat",
+        "answer": "akhādat",
+        "accept": [
+          "akhādat"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "avadat",
+        "answer": 2,
+        "options": [
+          "曾是；曾有",
+          "我吃了",
+          "他说了",
+          "我读了"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「我读了」是哪一个词？",
+        "sa": "apaṭham",
+        "answer": 3,
+        "options": [
+          "apaśyam",
+          "abhavat",
+          "apaśyat",
+          "apaṭham"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「从前」",
+        "zh": "从前",
+        "sa": "purā",
+        "answer": "purā",
+        "accept": [
+          "purā"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「某位；某个」是哪一个词？",
+        "sa": "kaścit",
+        "answer": 3,
+        "options": [
+          "apaśyat",
+          "akhādat",
+          "apibat",
+          "kaścit"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "tadā",
+        "answer": 1,
+        "options": [
+          "一天；白天",
+          "那时",
+          "然后；之后",
+          "在另一个"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「在另一个」",
+        "zh": "在另一个",
+        "sa": "itarasmin",
+        "answer": "itarasmin",
+        "accept": [
+          "itarasmin"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "kāryam",
+        "answer": 0,
+        "options": [
+          "事情；工作",
+          "饭食",
+          "我去了",
+          "快乐；舒适"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c09",
+    "unit": 9,
+    "title": "第九单元测验：计划",
+    "pass": 0.85,
+    "color": "#0369A1",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「再；又」是哪一个词？",
+        "sa": "punar",
+        "answer": 3,
+        "options": [
+          "śvaḥ",
+          "bhaviṣyati",
+          "kadācit",
+          "punar"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "nagaram",
+        "answer": 2,
+        "options": [
+          "我将去",
+          "将给",
+          "城市",
+          "好；太好了"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「好；太好了」",
+        "zh": "好；太好了",
+        "sa": "uttamam",
+        "answer": "uttamam",
+        "accept": [
+          "uttamam"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "sthāsyati",
+        "answer": 2,
+        "options": [
+          "如果",
+          "将见",
+          "将站；将立",
+          "树"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「树」是哪一个词？",
+        "sa": "vṛkṣaḥ",
+        "answer": 3,
+        "options": [
+          "gamiṣyāmi",
+          "nagaram",
+          "gamiṣyati",
+          "vṛkṣaḥ"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「那么」",
+        "zh": "那么",
+        "sa": "tarhi",
+        "answer": "tarhi",
+        "accept": [
+          "tarhi"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「但愿是；或许是」是哪一个词？",
+        "sa": "bhavet",
+        "answer": 3,
+        "options": [
+          "gamiṣyati",
+          "uttamam",
+          "sādhu",
+          "bhavet"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "āgacchet",
+        "answer": 1,
+        "options": [
+          "做（不定式）",
+          "但愿他来；请他来",
+          "去（不定式）",
+          "读（不定式）"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「读（不定式）」",
+        "zh": "读（不定式）",
+        "sa": "paṭhituṃ",
+        "answer": "paṭhituṃ",
+        "accept": [
+          "paṭhituṃ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "śaknoti",
+        "answer": 0,
+        "options": [
+          "能够",
+          "我想；我要",
+          "梵语",
+          "梦；梦想"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "unit": 10,
+    "title": "第十单元测验：被动与分词",
+    "pass": 0.85,
+    "color": "#7E22CE",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「被读」是哪一个词？",
+        "sa": "paṭhyate",
+        "answer": 3,
+        "options": [
+          "kriyate",
+          "likhyate",
+          "gamyate",
+          "paṭhyate"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "pustakam",
+        "answer": 2,
+        "options": [
+          "信；叶子",
+          "被你",
+          "书",
+          "被唱"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「被唱」",
+        "zh": "被唱",
+        "sa": "gīyate",
+        "answer": "gīyate",
+        "accept": [
+          "gīyate"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "tena",
+        "answer": 2,
+        "options": [
+          "教（使人读）",
+          "被她",
+          "被他；被它",
+          "被罗摩"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「被罗摩」是哪一个词？",
+        "sa": "rāmeṇa",
+        "answer": 3,
+        "options": [
+          "patram",
+          "pustakam",
+          "gītam",
+          "rāmeṇa"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「喂（使人吃）」",
+        "zh": "喂（使人吃）",
+        "sa": "khādayati",
+        "answer": "khādayati",
+        "accept": [
+          "khādayati"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「孩子」是哪一个词？",
+        "sa": "bālaḥ",
+        "answer": 3,
+        "options": [
+          "gītam",
+          "gīyate",
+          "mayā",
+          "bālaḥ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "paṭhan",
+        "answer": 1,
+        "options": [
+          "唱",
+          "读着的",
+          "笑着的",
+          "被做过的；已做的"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「被做过的；已做的」",
+        "zh": "被做过的；已做的",
+        "sa": "kṛta",
+        "answer": "kṛta",
+        "accept": [
+          "kṛta"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "citram",
+        "answer": 0,
+        "options": [
+          "画；图画",
+          "河",
+          "在……之上",
+          "村庄"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "unit": 11,
+    "title": "第十一单元测验：拆长句",
+    "pass": 0.85,
+    "color": "#0E7490",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「那个……的（阴性主格单数）」是哪一个词？",
+        "sa": "yā",
+        "answer": 3,
+        "options": [
+          "yaḥ",
+          "saḥ",
+          "yat",
+          "yā"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "sā",
+        "answer": 2,
+        "options": [
+          "它；那个",
+          "在谁那儿；在其中（处所格）",
+          "她；那个",
+          "给谁（与格）"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「给谁（与格）」",
+        "zh": "给谁（与格）",
+        "sa": "yasmai",
+        "answer": "yasmai",
+        "accept": [
+          "yasmai"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "tasya",
+        "answer": 2,
+        "options": [
+          "父母",
+          "在他那儿；在那里（处所格）",
+          "他的；它的（属格）",
+          "大王"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「大王」是哪一个词？",
+        "sa": "mahārājaḥ",
+        "answer": 3,
+        "options": [
+          "tat",
+          "sā",
+          "yasya",
+          "mahārājaḥ"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「穿黄衣者」",
+        "zh": "穿黄衣者",
+        "sa": "pītāmbaraḥ",
+        "answer": "pītāmbaraḥ",
+        "accept": [
+          "pītāmbaraḥ"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「法与利」是哪一个词？",
+        "sa": "dharmārthaḥ",
+        "answer": 3,
+        "options": [
+          "yasya",
+          "yasmai",
+          "yasmāt",
+          "dharmārthaḥ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "sukham",
+        "answer": 1,
+        "options": [
+          "被尊崇",
+          "乐；舒适",
+          "苦；不适",
+          "王国"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「王国」",
+        "zh": "王国",
+        "sa": "rājyam",
+        "answer": "rājyam",
+        "accept": [
+          "rājyam"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "janāḥ",
+        "answer": 0,
+        "options": [
+          "人们",
+          "安乐地；以安乐",
+          "那个……的（中性主格、宾格）",
+          "那个……的（阳性主格单数）"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c12",
+    "unit": 12,
+    "title": "毕业测验：读一段原典",
+    "pass": 0.9,
+    "color": "#B91C1C",
+    "questions": [
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「田；领域」是哪一个词？",
+        "sa": "kṣetram",
+        "answer": 3,
+        "options": [
+          "dharma",
+          "samavetāḥ",
+          "kuru",
+          "kṣetram"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "yuyutsavaḥ",
+        "answer": 2,
+        "options": [
+          "般度之子们",
+          "到彼岸；波罗蜜多",
+          "渴望战斗的",
+          "什么"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「什么」",
+        "zh": "什么",
+        "sa": "kim",
+        "answer": "kim",
+        "accept": [
+          "kim"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "hṛdayam",
+        "answer": 2,
+        "options": [
+          "施设；假名；安立",
+          "色；形体；物质",
+          "心；核心；心要",
+          "唯；正是"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「唯；正是」是哪一个词？",
+        "sa": "eva",
+        "answer": 3,
+        "options": [
+          "pāṇḍavāḥ",
+          "yuyutsavaḥ",
+          "sañjaya",
+          "eva"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「依于；基于」",
+        "zh": "依于；基于",
+        "sa": "upādāya",
+        "answer": "upādāya",
+        "accept": [
+          "upādāya"
+        ]
+      },
+      {
+        "type": "mcq",
+        "kind": "mcq",
+        "prompt": "「我们称；我们宣说」是哪一个词？",
+        "sa": "pracakṣmahe",
+        "answer": 3,
+        "options": [
+          "sañjaya",
+          "kim",
+          "prajñā",
+          "pracakṣmahe"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "lubdhakaḥ",
+        "answer": 1,
+        "options": [
+          "如此（引语结束）",
+          "猎人",
+          "朋友",
+          "害怕的"
+        ]
+      },
+      {
+        "type": "type",
+        "kind": "type",
+        "prompt": "写出「害怕的」",
+        "zh": "害怕的",
+        "sa": "bhītaḥ",
+        "answer": "bhītaḥ",
+        "accept": [
+          "bhītaḥ"
+        ]
+      },
+      {
+        "type": "audio",
+        "kind": "audio",
+        "prompt": "听音，选出意思",
+        "sa": "anṛtam",
+        "answer": 0,
+        "options": [
+          "虚妄；不真",
+          "得胜；战胜",
+          "最高的；至上的",
+          "天乘；诸神之路"
+        ]
+      }
+    ]
+  }
+]

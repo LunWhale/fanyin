@@ -1,0 +1,11 @@
+import { loadData, DB } from './data.js';
+import { getState, rollDaily } from './store.js';
+import { AudioBank } from './audio.js';
+import { renderHome } from './views/home.js';
+const view = document.getElementById('view');
+await loadData();
+const audio = new AudioBank(DB.audio, () => getState().settings);
+rollDaily();
+const ctx = { audio, get state() { return getState(); }, go(h) { location.hash = h; } };
+view.replaceChildren(renderHome(ctx));
+document.title = 'OK3';

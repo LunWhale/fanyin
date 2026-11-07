@@ -1,0 +1,9318 @@
+[
+  {
+    "sa": "abhavam",
+    "lemma": "bhū",
+    "zh": "我曾是；我当时在",
+    "pos": "v",
+    "notes": [
+      "第一人称单数"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "abhavat",
+    "lemma": "bhū",
+    "zh": "他曾是；他当时在",
+    "pos": "v",
+    "notes": [
+      "第三人称单数"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "abhidharmaḥ",
+    "lemma": "abhidharmaḥ",
+    "zh": "阿毗达磨；对法",
+    "pos": "n",
+    "notes": [
+      "abhi-dharma 对向法"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "abhijñā",
+    "lemma": "abhijñā",
+    "zh": "神通；智证",
+    "pos": "n",
+    "notes": [
+      "abhi-jñā 殊胜知"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "adya",
+    "lemma": "adya",
+    "zh": "今天",
+    "pos": "ind",
+    "notes": [
+      "不变格，常放句首"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "agaccham",
+    "lemma": "gam",
+    "zh": "我去了",
+    "pos": "v",
+    "notes": [
+      "第一人称单数，词尾 -am"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "agacchan",
+    "lemma": "gam",
+    "zh": "他们去了",
+    "pos": "v",
+    "notes": [
+      "第三人称复数，词尾 -an"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "agacchat",
+    "lemma": "gam",
+    "zh": "他去了",
+    "pos": "v",
+    "notes": [
+      "第三人称单数，词尾 -t"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "āgacchati",
+    "lemma": "āgam",
+    "zh": "来",
+    "pos": "v",
+    "notes": [
+      "带前缀 ā-；gacchati 是「去」"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "āgacchet",
+    "lemma": "āgam",
+    "zh": "但愿他来；请他来",
+    "pos": "v",
+    "notes": [
+      "ā + gacchet，带 ā 表示「来」"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "āgamaḥ",
+    "lemma": "āgamaḥ",
+    "zh": "阿含；传来的教说",
+    "pos": "n",
+    "notes": [
+      "ā-√gam 来；早期经藏"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "agniḥ",
+    "lemma": "agniḥ",
+    "zh": "火",
+    "pos": "n",
+    "notes": [
+      "阳性；吠陀火神之名，祭祀的核心。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "aham",
+    "lemma": "aham",
+    "zh": "我",
+    "pos": "pron",
+    "notes": [
+      "第一人称单数"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ākāśaḥ",
+    "lemma": "ākāśaḥ",
+    "zh": "天空；空间",
+    "pos": "n",
+    "notes": [
+      "阳性；佛典常译作「虚空」。"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "akhādam",
+    "lemma": "khād",
+    "zh": "我吃了",
+    "pos": "v",
+    "notes": [
+      "第一人称 -am"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "akhādat",
+    "lemma": "khād",
+    "zh": "他吃了",
+    "pos": "v",
+    "notes": [
+      "khādati 的过去式，保留长 ā"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "alaṅkāraḥ",
+    "lemma": "alaṅkāraḥ",
+    "zh": "庄严；修辞",
+    "pos": "n",
+    "notes": [
+      "阳性；字面义「装饰」，诗学核心概念。"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "ālayavijñānam",
+    "lemma": "ālayavijñānam",
+    "zh": "阿赖耶识；藏识",
+    "pos": "n",
+    "notes": [
+      "ālaya 藏 + vijñāna 识"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "ām",
+    "lemma": "ām",
+    "zh": "是；嗯",
+    "pos": "ind",
+    "notes": [
+      "口语肯定"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "amba",
+    "lemma": "amba",
+    "zh": "母亲；妈妈",
+    "pos": "n",
+    "notes": [
+      "呼格 amba 常用来呼唤母亲，也用于尊称女性。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "āmram",
+    "lemma": "āmram",
+    "zh": "芒果",
+    "pos": "n",
+    "notes": [
+      "中性；芒果花是春天的意象。"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "anātman",
+    "lemma": "anātman",
+    "zh": "无我",
+    "pos": "n",
+    "notes": [
+      "an-ātman 非我"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "aṅgam",
+    "lemma": "aṅga",
+    "zh": "肢体；身体",
+    "pos": "n",
+    "notes": [
+      "ṅ 是喉鼻音，只出现在 k/g 前"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "anityaḥ",
+    "lemma": "anityaḥ",
+    "zh": "无常的",
+    "pos": "adj",
+    "notes": [
+      "a-nitya 不恒常"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "annam",
+    "lemma": "anna",
+    "zh": "食物；饭",
+    "pos": "n",
+    "notes": [
+      "中性 -am，主格宾格同形"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "anṛtam",
+    "lemma": "anṛta",
+    "zh": "虚妄；不真",
+    "pos": "n",
+    "notes": [
+      "a- + ṛta"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "anujā",
+    "lemma": "anujā",
+    "zh": "妹妹",
+    "pos": "n",
+    "notes": [
+      "阴性；anu-「随后」+ jā「出生」，即后出生者。"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "anusmṛtiḥ",
+    "lemma": "anusmṛtiḥ",
+    "zh": "随念",
+    "pos": "n",
+    "notes": [
+      "anu-smṛti 反复忆念"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "anyathā",
+    "lemma": "anyathā",
+    "zh": "否则；别样",
+    "pos": "ind",
+    "notes": [
+      "anya「其他」+ thā 方式后缀。"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "āpaṇaḥ",
+    "lemma": "āpaṇa",
+    "zh": "店；市场",
+    "pos": "n",
+    "notes": [
+      "阳性 a-词干，卷舌 ṇ",
+      "阳性；处所格 āpaṇe"
+    ],
+    "units": [
+      4,
+      7
+    ],
+    "lessons": [
+      "u04l04",
+      "u07l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "apaśyam",
+    "lemma": "dṛś",
+    "zh": "我看见了",
+    "pos": "v",
+    "notes": [
+      "第一人称单数"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "apaśyat",
+    "lemma": "dṛś",
+    "zh": "他看见了",
+    "pos": "v",
+    "notes": [
+      "第三人称单数"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "apaṭham",
+    "lemma": "paṭh",
+    "zh": "我读了",
+    "pos": "v",
+    "notes": [
+      "第一人称 -am"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "apaṭhat",
+    "lemma": "paṭh",
+    "zh": "他读了",
+    "pos": "v",
+    "notes": [
+      "paṭhati 的过去式"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "api",
+    "lemma": "api",
+    "zh": "也；甚至",
+    "pos": "ind",
+    "notes": [
+      "放在被强调的词后面"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l04"
+    ],
+    "tags": [
+      "particle"
+    ]
+  },
+  {
+    "sa": "apibam",
+    "lemma": "pā",
+    "zh": "我喝了",
+    "pos": "v",
+    "notes": [
+      "第一人称 -am"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "apibat",
+    "lemma": "pā",
+    "zh": "他喝了",
+    "pos": "v",
+    "notes": [
+      "pibati 的过去式，i 短"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "arhan",
+    "lemma": "arhan",
+    "zh": "阿罗汉；应供",
+    "pos": "n",
+    "notes": [
+      "√arh 堪受供养"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "ārogyam",
+    "lemma": "ārogyam",
+    "zh": "健康",
+    "pos": "n",
+    "notes": [
+      "中性；a-rogya「无病」。"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "āryāṣṭāṅgikamārgaḥ",
+    "lemma": "āryāṣṭāṅgikamārgaḥ",
+    "zh": "八正道",
+    "pos": "n",
+    "notes": [
+      "正见等八支"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "asaṃskṛtaḥ",
+    "lemma": "asaṃskṛtaḥ",
+    "zh": "无为的；非造作的",
+    "pos": "adj",
+    "notes": [
+      "a-saṃskṛta 不属因缘所成"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "āsan",
+    "lemma": "as",
+    "zh": "曾有（复数）",
+    "pos": "v",
+    "notes": [
+      "as 的第三人称复数过去式"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "asatyam",
+    "lemma": "asatya",
+    "zh": "虚假；不真实",
+    "pos": "n",
+    "notes": [
+      "a- 是否定前缀"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "asi",
+    "lemma": "as",
+    "zh": "你是",
+    "pos": "v",
+    "notes": [
+      "第二人称单数"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "āsīt",
+    "lemma": "as",
+    "zh": "曾是；曾有",
+    "pos": "v",
+    "notes": [
+      "as 的第三人称单数过去式"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "asmābhiḥ",
+    "lemma": "vayam",
+    "zh": "被我们",
+    "pos": "pron",
+    "notes": [
+      "vayam 的工具格复数"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "asmi",
+    "lemma": "as",
+    "zh": "我是",
+    "pos": "v",
+    "notes": [
+      "第一人称单数"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "aṣṭa",
+    "lemma": "aṣṭa",
+    "zh": "八",
+    "pos": "num",
+    "notes": [
+      "ṣṭ 是卷舌塞音组合"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "asti",
+    "lemma": "as",
+    "zh": "他是；有",
+    "pos": "v",
+    "notes": [
+      "第三人称单数"
+    ],
+    "units": [
+      2,
+      3
+    ],
+    "lessons": [
+      "u02l01",
+      "u03l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "atha",
+    "lemma": "atha",
+    "zh": "于是",
+    "pos": "ind",
+    "notes": [
+      "多用于转折或故事开场"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ātmā",
+    "lemma": "ātmā",
+    "zh": "我；自我",
+    "pos": "n",
+    "notes": [
+      "呼吸、自身；佛教所破"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "atra",
+    "lemma": "atra",
+    "zh": "这里",
+    "pos": "ind",
+    "notes": [
+      "近指地点",
+      "不变词，常放句首"
+    ],
+    "units": [
+      2,
+      3
+    ],
+    "lessons": [
+      "u02l04",
+      "u03l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "auṣadham",
+    "lemma": "auṣadha",
+    "zh": "药",
+    "pos": "n",
+    "notes": [
+      "阿育吠陀 āyurveda 的同源词"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "avadam",
+    "lemma": "vad",
+    "zh": "我说了",
+    "pos": "v",
+    "notes": [
+      "第一人称 -am"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "avadat",
+    "lemma": "vad",
+    "zh": "他说了",
+    "pos": "v",
+    "notes": [
+      "vadati 的过去式"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "avakāśaḥ",
+    "lemma": "avakāśaḥ",
+    "zh": "机会；空闲",
+    "pos": "n",
+    "notes": [
+      "阳性；字面义「空间、余地」。"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "avidyā",
+    "lemma": "avidyā",
+    "zh": "无明",
+    "pos": "n",
+    "notes": [
+      "a-vidyā 不知；十二缘起之首"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "bahavaḥ",
+    "lemma": "bahu",
+    "zh": "许多的（阳性复数）",
+    "pos": "adj",
+    "notes": [
+      "bahu 的复数主格"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bālaḥ",
+    "lemma": "bāla",
+    "zh": "男孩；孩子",
+    "pos": "n",
+    "notes": [
+      "阳性，女孩用 bālikā",
+      "阳性 a-词干"
+    ],
+    "units": [
+      3,
+      10
+    ],
+    "lessons": [
+      "u03l05",
+      "u10l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bālaiḥ",
+    "lemma": "bāla",
+    "zh": "和孩子们",
+    "pos": "n",
+    "notes": [
+      "bālaḥ 的工具格复数；bālikābhiḥ 是女孩们"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l03"
+    ],
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "sa": "bālikā",
+    "lemma": "bālikā",
+    "zh": "女孩",
+    "pos": "n",
+    "notes": [
+      "阴性 -ā 词干"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bhaginī",
+    "lemma": "bhaginī",
+    "zh": "姐妹",
+    "pos": "n",
+    "notes": [
+      "阴性 ī-词干"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bhavān",
+    "lemma": "bhavat",
+    "zh": "您（男）",
+    "pos": "pron",
+    "notes": [
+      "礼貌称呼"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bhavati",
+    "lemma": "bhū",
+    "zh": "是；成为",
+    "pos": "v",
+    "notes": [
+      "第三人称单数，第二单元正式学变位",
+      "第一类，词干 bhava-"
+    ],
+    "units": [
+      1,
+      5
+    ],
+    "lessons": [
+      "u01l05",
+      "u05l01"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "bhavatī",
+    "lemma": "bhavatī",
+    "zh": "您（女）",
+    "pos": "pron",
+    "notes": [
+      "礼貌称呼"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bhavatu",
+    "lemma": "bhū",
+    "zh": "好吧；愿它是",
+    "pos": "v",
+    "notes": [
+      "第三人称单数命令式，口语里表示同意"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l03"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "bhavet",
+    "lemma": "bhū",
+    "zh": "但愿是；或许是",
+    "pos": "v",
+    "notes": [
+      "祈愿式第三人称单数"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bhaviṣyati",
+    "lemma": "bhū",
+    "zh": "将会是",
+    "pos": "v",
+    "notes": [
+      "bhū 的将来时第三人称单数"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bhikṣā",
+    "lemma": "bhikṣā",
+    "zh": "施舍；乞食",
+    "pos": "n",
+    "notes": [
+      "阴性；出家人以乞食为生。"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "bhikṣuḥ",
+    "lemma": "bhikṣu",
+    "zh": "乞士；出家人",
+    "pos": "n",
+    "notes": [
+      "u-词干，与格 bhikṣave",
+      "√bhikṣ 乞食"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l04"
+    ],
+    "tags": [
+      "person",
+      "佛典"
+    ]
+  },
+  {
+    "sa": "bhikṣuṇī",
+    "lemma": "bhikṣuṇī",
+    "zh": "比丘尼",
+    "pos": "n",
+    "notes": [
+      "比丘的阴性形式"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "bhītaḥ",
+    "lemma": "bhīta",
+    "zh": "害怕的",
+    "pos": "adj",
+    "notes": [
+      "bhī「恐惧」的过去分词"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bhojanam",
+    "lemma": "bhojana",
+    "zh": "饭；用餐",
+    "pos": "n",
+    "notes": [
+      "中性 -am 结尾",
+      "中性；配 khādati 吃"
+    ],
+    "units": [
+      5,
+      8
+    ],
+    "lessons": [
+      "u05l05",
+      "u08l05"
+    ],
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "sa": "bhrātā",
+    "lemma": "bhrātṛ",
+    "zh": "兄弟",
+    "pos": "n",
+    "notes": [
+      "兄弟不分兄长、弟弟，统称 bhrātā"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bhūmī",
+    "lemma": "bhūmī",
+    "zh": "大地；土地",
+    "pos": "n",
+    "notes": [
+      "发音例词：长 ī 结尾的阴性名词。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "bhūmiḥ",
+    "lemma": "bhūmi",
+    "zh": "大地；土地",
+    "pos": "n",
+    "notes": [
+      "i-词干，主格带 ḥ"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "bījam",
+    "lemma": "bījam",
+    "zh": "种子",
+    "pos": "n",
+    "notes": [
+      "中性；引申为「根源、因」。"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "bodhicittam",
+    "lemma": "bodhicittam",
+    "zh": "菩提心",
+    "pos": "n",
+    "notes": [
+      "为利众生愿成佛之心"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "bodhiḥ",
+    "lemma": "bodhiḥ",
+    "zh": "觉悟；菩提",
+    "pos": "n",
+    "notes": [
+      "√budh 觉；佛所证"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "bodhimaṇḍaḥ",
+    "lemma": "bodhimaṇḍaḥ",
+    "zh": "菩提道场；金刚座",
+    "pos": "n",
+    "notes": [
+      "成道之处"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "bodhipakṣyā dharmāḥ",
+    "lemma": "bodhipakṣyā dharmāḥ",
+    "zh": "菩提分法；三十七道品",
+    "pos": "n",
+    "notes": [
+      "助成觉悟的诸法"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "bodhisattvaḥ",
+    "lemma": "bodhisattvaḥ",
+    "zh": "菩萨；觉有情",
+    "pos": "n",
+    "notes": [
+      "bodhi 觉 + sattva 有情"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "buddhaḥ",
+    "lemma": "buddhaḥ",
+    "zh": "佛；觉者",
+    "pos": "n",
+    "notes": [
+      "√budh 觉；已觉悟者"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "ca",
+    "lemma": "ca",
+    "zh": "和；也",
+    "pos": "ind",
+    "notes": [
+      "放在最后一个并列项之后"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "caittaḥ",
+    "lemma": "caittaḥ",
+    "zh": "心所；心所有法",
+    "pos": "n",
+    "notes": [
+      "citta 心 + -ka；随心的心理因素"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "cakṣuḥ",
+    "lemma": "cakṣus",
+    "zh": "眼睛",
+    "pos": "n",
+    "notes": [
+      "中性 s-词干，工具格 cakṣuṣā"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l02"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "sa": "calati",
+    "lemma": "cal",
+    "zh": "走；移动",
+    "pos": "v",
+    "notes": [
+      "第一类，词干 cala-"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "candraḥ",
+    "lemma": "candraḥ",
+    "zh": "月亮",
+    "pos": "n",
+    "notes": [
+      "阳性；也指「月份」这一时间单位。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "catur",
+    "lemma": "catur",
+    "zh": "四",
+    "pos": "num",
+    "notes": [
+      "catvāraḥ / catvāri / catasraḥ"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "catvāri āryasatyāni",
+    "lemma": "catvāri āryasatyāni",
+    "zh": "四圣谛",
+    "pos": "n",
+    "notes": [
+      "苦、集、灭、道"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "chandaḥ",
+    "lemma": "chandaḥ",
+    "zh": "诗律",
+    "pos": "n",
+    "notes": [
+      "中性；吠陀与史诗的韵律体系。"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "chāyā",
+    "lemma": "chāyā",
+    "zh": "影子；阴凉",
+    "pos": "n",
+    "notes": [
+      "阴性 ā-词干"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "citram",
+    "lemma": "citra",
+    "zh": "画；图画",
+    "pos": "n",
+    "notes": [
+      "中性 -am；处所格 citre"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "cittam",
+    "lemma": "cittam",
+    "zh": "心；心识",
+    "pos": "n",
+    "notes": [
+      "中性；积集、思虑"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "dadāmi",
+    "lemma": "dā",
+    "zh": "我给",
+    "pos": "v",
+    "notes": [
+      "与 aham 连用"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l04"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "dadāti",
+    "lemma": "dā",
+    "zh": "他给",
+    "pos": "v",
+    "notes": [
+      "三类现在时；他们给是 dadati，不带 -nti"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l04"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "dakṣiṇā",
+    "lemma": "dakṣiṇā",
+    "zh": "供养金；南方",
+    "pos": "n",
+    "notes": [
+      "阴性；原义「右方、南方」，引申为谢礼。"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "dakṣiṇe",
+    "lemma": "dakṣiṇa",
+    "zh": "在右边；在南边",
+    "pos": "adj",
+    "notes": [
+      "dakṣiṇa 的处所格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dānam",
+    "lemma": "dāna",
+    "zh": "布施；给予",
+    "pos": "n",
+    "notes": [
+      "d 齿音，ā 长音",
+      "√dā 给；六度之一"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l04"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "dānaṃ",
+    "lemma": "dānaṃ",
+    "zh": "布施",
+    "pos": "n",
+    "notes": [
+      "dāna 的中性主格；六度之首"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "daṇḍaḥ",
+    "lemma": "daṇḍa",
+    "zh": "杖；惩罚",
+    "pos": "n",
+    "notes": [
+      "ḍ 与 ṇ 都卷舌"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "daśa",
+    "lemma": "daśan",
+    "zh": "十",
+    "pos": "num",
+    "notes": [
+      "数词，不变格",
+      "ś 是腭咝音"
+    ],
+    "units": [
+      4,
+      6
+    ],
+    "lessons": [
+      "u04l05",
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "daśabhūmayaḥ",
+    "lemma": "daśabhūmayaḥ",
+    "zh": "十地",
+    "pos": "n",
+    "notes": [
+      "菩萨修行的十个阶位"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "dāsaḥ",
+    "lemma": "dāsaḥ",
+    "zh": "仆人；奴隶",
+    "pos": "n",
+    "notes": [
+      "阳性；女性形式 dāsī。"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "dāsyati",
+    "lemma": "dā",
+    "zh": "将给",
+    "pos": "v",
+    "notes": [
+      "dā 的将来时第三人称单数"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "deśaḥ",
+    "lemma": "deśaḥ",
+    "zh": "国家；地区",
+    "pos": "n",
+    "notes": [
+      "阳性；比 rāṣṭra 更偏「地方、区域」。"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "devaḥ",
+    "lemma": "devaḥ",
+    "zh": "神；天神",
+    "pos": "n",
+    "notes": [
+      "发音例词：e 为长音，词尾 visarga。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "devayānaḥ",
+    "lemma": "devayāna",
+    "zh": "天乘；诸神之路",
+    "pos": "n",
+    "notes": [
+      "deva + yāna"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dhanyavādaḥ",
+    "lemma": "dhanyavāda",
+    "zh": "感谢；谢谢",
+    "pos": "n",
+    "notes": [
+      "直译「福德之语」"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l05"
+    ],
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "sa": "dhāraṇī",
+    "lemma": "dhāraṇī",
+    "zh": "陀罗尼；总持",
+    "pos": "n",
+    "notes": [
+      "√dhṛ 持；能持善法"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "dharma",
+    "lemma": "dharma",
+    "zh": "法；正法",
+    "pos": "n",
+    "notes": [
+      "阳性，此处作复合词的前成分"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dharmadhātuḥ",
+    "lemma": "dharmadhātuḥ",
+    "zh": "法界；法性",
+    "pos": "n",
+    "notes": [
+      "dharma 法 + dhātu 界"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "dharmakāyaḥ",
+    "lemma": "dharmakāyaḥ",
+    "zh": "法身",
+    "pos": "n",
+    "notes": [
+      "三身之一；法性所成"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "dharmārthaḥ",
+    "lemma": "dharmārtha",
+    "zh": "法与利",
+    "pos": "n",
+    "notes": [
+      "dharma 与 artha 并列"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dharmāt",
+    "lemma": "dharmāt",
+    "zh": "从正法；从法",
+    "pos": "n",
+    "notes": [
+      "发音例词：dharma 的从格，词尾 -āt。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "dharmatā",
+    "lemma": "dharmatā",
+    "zh": "法性；诸法本性",
+    "pos": "n",
+    "notes": [
+      "dharma + -tā"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "dhāvati",
+    "lemma": "dhāvati",
+    "zh": "跑",
+    "pos": "v",
+    "notes": [
+      "第一类现在时；词根 dhāv。"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "dhyānam",
+    "lemma": "dhyānam",
+    "zh": "禅定；静虑",
+    "pos": "n",
+    "notes": [
+      "√dhyai 思虑"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "dinam",
+    "lemma": "dina",
+    "zh": "日子；一天",
+    "pos": "n",
+    "notes": [
+      "中性 -am 结尾"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l05"
+    ],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "sa": "dine",
+    "lemma": "dina",
+    "zh": "在……日",
+    "pos": "n",
+    "notes": [
+      "dina 的处所格，表时间点"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dīrghaḥ",
+    "lemma": "dīrgha",
+    "zh": "长的",
+    "pos": "adj",
+    "notes": [
+      "也指「长音」"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "divasaḥ",
+    "lemma": "divasa",
+    "zh": "一天；白天",
+    "pos": "n",
+    "notes": [
+      "阳性，主格 divasaḥ"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dīyate",
+    "lemma": "dīyate",
+    "zh": "被给",
+    "pos": "v",
+    "notes": [
+      "dā 的被动；与主动 dadāti 对照记。"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "drakṣyati",
+    "lemma": "dṛś",
+    "zh": "将见",
+    "pos": "v",
+    "notes": [
+      "不规则，词干作 drakṣ-"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "draṣṭuṃ",
+    "lemma": "dṛś",
+    "zh": "看（不定式）",
+    "pos": "v",
+    "notes": [
+      "词干作 draṣ-，卷舌 ṣ"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dravyam",
+    "lemma": "dravya",
+    "zh": "货物；物品",
+    "pos": "n",
+    "notes": [
+      "复数 dravyāṇi，r 后 n 变 ṇ"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dṛśyate",
+    "lemma": "dṛśyate",
+    "zh": "被看见",
+    "pos": "v",
+    "notes": [
+      "dṛś 的被动现在时；被动常带 -ya-。"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "dugdham",
+    "lemma": "dugdha",
+    "zh": "奶；牛奶",
+    "pos": "n",
+    "notes": [
+      "中性 -am"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "duhitā",
+    "lemma": "duhitṛ",
+    "zh": "女儿",
+    "pos": "n",
+    "notes": [
+      "词干 duhitṛ，属格 duhituḥ"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "duḥkham",
+    "lemma": "duḥkha",
+    "zh": "苦；痛苦",
+    "pos": "n",
+    "notes": [
+      "佛教语境里的「苦」",
+      "中性；与 sukham 成对",
+      "中性，与 sukham 成对"
+    ],
+    "units": [
+      1,
+      8,
+      11
+    ],
+    "lessons": [
+      "u01l04",
+      "u08l05",
+      "u11l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "duḥkhasatyam",
+    "lemma": "duḥkhasatyam",
+    "zh": "苦谛",
+    "pos": "n",
+    "notes": [
+      "四圣谛之一"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "dūram",
+    "lemma": "dūra",
+    "zh": "远",
+    "pos": "ind",
+    "notes": [
+      "中性形作副词；dūre 是「在远处」",
+      "可作副词「到远处」"
+    ],
+    "units": [
+      7,
+      9
+    ],
+    "lessons": [
+      "u07l02",
+      "u09l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dūre",
+    "lemma": "dūra",
+    "zh": "在远处",
+    "pos": "ind",
+    "notes": [
+      "与 dūram「远」区别"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "dvāram",
+    "lemma": "dvāram",
+    "zh": "门；入口",
+    "pos": "n",
+    "notes": [
+      "中性；城门、家门都可用。"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "dvi",
+    "lemma": "dvi",
+    "zh": "二",
+    "pos": "num",
+    "notes": [
+      "常与双数连用：dvau janau"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "eka",
+    "lemma": "eka",
+    "zh": "一",
+    "pos": "num",
+    "notes": [
+      "数词，后面会学 1–10",
+      "有性数变化：ekaḥ / ekā / ekam"
+    ],
+    "units": [
+      1,
+      6
+    ],
+    "lessons": [
+      "u01l02",
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "ekadā",
+    "lemma": "ekadā",
+    "zh": "有一次；某时",
+    "pos": "ind",
+    "notes": [
+      "叙事开头常用，相当于「从前」。"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "etat",
+    "lemma": "etad",
+    "zh": "这个",
+    "pos": "pron",
+    "notes": [
+      "中性主格/宾格同形"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "eva",
+    "lemma": "eva",
+    "zh": "就；正是",
+    "pos": "ind",
+    "notes": [
+      "紧跟被强调的词",
+      "强调小品词，紧跟被强调词"
+    ],
+    "units": [
+      6,
+      12
+    ],
+    "lessons": [
+      "u06l05",
+      "u12l02"
+    ],
+    "tags": [
+      "particle"
+    ]
+  },
+  {
+    "sa": "gacchan",
+    "lemma": "gam",
+    "zh": "走着的",
+    "pos": "adj",
+    "notes": [
+      "gam 的现在分词阳性主格"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gacchati",
+    "lemma": "gam",
+    "zh": "他走；他去",
+    "pos": "v",
+    "notes": [
+      "词干 gaccha-，不规则但最常用"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l01"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "gacchet",
+    "lemma": "gam",
+    "zh": "但愿他去；请他去",
+    "pos": "v",
+    "notes": [
+      "gam 的祈愿式第三人称单数"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gajaḥ",
+    "lemma": "gaja",
+    "zh": "大象",
+    "pos": "n",
+    "notes": [
+      "印度文化中的吉祥动物"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gajaiḥ",
+    "lemma": "gaja",
+    "zh": "和象们",
+    "pos": "n",
+    "notes": [
+      "gajaḥ 的工具格复数"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l03"
+    ],
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "sa": "gamiṣyāmi",
+    "lemma": "gam",
+    "zh": "我将去",
+    "pos": "v",
+    "notes": [
+      "gam 的将来时第一人称单数"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gamiṣyati",
+    "lemma": "gam",
+    "zh": "他将去",
+    "pos": "v",
+    "notes": [
+      "同词根第三人称：-ti"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gamyate",
+    "lemma": "gam",
+    "zh": "被去；前往",
+    "pos": "v",
+    "notes": [
+      "不及物，常作无人称被动"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gantuṃ",
+    "lemma": "gam",
+    "zh": "去（不定式）",
+    "pos": "v",
+    "notes": [
+      "gam 的 -tum 形"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gata",
+    "lemma": "gam",
+    "zh": "已去的；到了的",
+    "pos": "adj",
+    "notes": [
+      "gam 的过去被动分词"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gauḥ",
+    "lemma": "gauḥ",
+    "zh": "牛",
+    "pos": "n",
+    "notes": [
+      "发音例词：au 双元音 + visarga。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "gāyati",
+    "lemma": "gai",
+    "zh": "唱",
+    "pos": "v",
+    "notes": [
+      "现在时第三人称单数"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ghaṭaḥ",
+    "lemma": "ghaṭa",
+    "zh": "罐；水罐",
+    "pos": "n",
+    "notes": [
+      "gh 送气浊音"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ghṛtam",
+    "lemma": "ghṛtam",
+    "zh": "酥油",
+    "pos": "n",
+    "notes": [
+      "中性；祭祀与烹饪都用，常作供品。"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "giriḥ",
+    "lemma": "giri",
+    "zh": "山",
+    "pos": "n",
+    "notes": [
+      "短 i，不是 girī"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gītam",
+    "lemma": "gīta",
+    "zh": "歌",
+    "pos": "n",
+    "notes": [
+      "由 gai 唱派生的过去分词，也当名词用"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gīyate",
+    "lemma": "gī",
+    "zh": "被唱",
+    "pos": "v",
+    "notes": [
+      "gai 唱 的现在时被动"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "grāmaḥ",
+    "lemma": "grāma",
+    "zh": "村；村庄",
+    "pos": "n",
+    "notes": [
+      "阳性 a-词干"
+    ],
+    "units": [
+      3,
+      10
+    ],
+    "lessons": [
+      "u03l01",
+      "u10l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "grāmāt",
+    "lemma": "grāma",
+    "zh": "从村里",
+    "pos": "n",
+    "notes": [
+      "grāma 的从格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "grāme",
+    "lemma": "grāma",
+    "zh": "在村里",
+    "pos": "n",
+    "notes": [
+      "grāmaḥ 的处所格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gṛham",
+    "lemma": "gṛha",
+    "zh": "家；房子",
+    "pos": "n",
+    "notes": [
+      "中性 -am 结尾，指建筑物",
+      "复数 gṛhāṇi，注意卷舌 ṇ"
+    ],
+    "units": [
+      3,
+      4
+    ],
+    "lessons": [
+      "u03l01",
+      "u04l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gṛhāṇa",
+    "lemma": "grah",
+    "zh": "拿着吧；收下吧",
+    "pos": "v",
+    "notes": [
+      "命令式第二人称单数"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l05"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "gṛhāt",
+    "lemma": "gṛha",
+    "zh": "从家里",
+    "pos": "n",
+    "notes": [
+      "gṛha 的从格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gṛhe",
+    "lemma": "gṛha",
+    "zh": "在家",
+    "pos": "n",
+    "notes": [
+      "gṛham 的处所格；中性 a-词干"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "gṛhṇāti",
+    "lemma": "gṛhṇāti",
+    "zh": "拿；接受",
+    "pos": "v",
+    "notes": [
+      "第九类；词根 grah。"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "gṛhyate",
+    "lemma": "gṛhyate",
+    "zh": "被拿；被接受",
+    "pos": "v",
+    "notes": [
+      "grah 的被动；h → hy。"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "guruḥ",
+    "lemma": "guru",
+    "zh": "老师；师尊",
+    "pos": "n",
+    "notes": [
+      "阳性 u-词干，主格 guruḥ"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "hasan",
+    "lemma": "has",
+    "zh": "笑着的",
+    "pos": "adj",
+    "notes": [
+      "has 的现在分词阳性主格"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "hasati",
+    "lemma": "has",
+    "zh": "笑",
+    "pos": "v",
+    "notes": [
+      "第一类，词干 hasa-"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "hastaḥ",
+    "lemma": "hasta",
+    "zh": "手",
+    "pos": "n",
+    "notes": [
+      "阳性 a-词干，工具格 hastena"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l02"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "sa": "hetuḥ",
+    "lemma": "hetuḥ",
+    "zh": "因；原因",
+    "pos": "n",
+    "notes": [
+      "能生果者"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "hrasvaḥ",
+    "lemma": "hrasva",
+    "zh": "短的",
+    "pos": "adj",
+    "notes": [
+      "语法里指「短音」"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "hṛdayam",
+    "lemma": "hṛdaya",
+    "zh": "心；心脏",
+    "pos": "n",
+    "notes": [
+      "hṛd 的派生词",
+      "中性；经题中作「心要」"
+    ],
+    "units": [
+      1,
+      12
+    ],
+    "lessons": [
+      "u01l05",
+      "u12l02"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "hyas",
+    "lemma": "hyas",
+    "zh": "昨天",
+    "pos": "ind",
+    "notes": [
+      "只与过去时连用"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "icchā",
+    "lemma": "icchā",
+    "zh": "愿望",
+    "pos": "n",
+    "notes": [
+      "阴性 ā-词干，主格即 icchā"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "icchāmi",
+    "lemma": "iṣ",
+    "zh": "我想；我要",
+    "pos": "v",
+    "notes": [
+      "第一人称；第三人称 icchati"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "idānīm",
+    "lemma": "idānīm",
+    "zh": "现在；此刻",
+    "pos": "ind",
+    "notes": [
+      "指说话的当下"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l04"
+    ],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "sa": "itarasmin",
+    "lemma": "itara",
+    "zh": "在另一个",
+    "pos": "adj",
+    "notes": [
+      "itara 的处所格"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "iti",
+    "lemma": "iti",
+    "zh": "如此（引语结束）",
+    "pos": "ind",
+    "notes": [
+      "相当于后引号"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "jāgarti",
+    "lemma": "jāgarti",
+    "zh": "醒着；警觉",
+    "pos": "v",
+    "notes": [
+      "第三类；睡眠的反面。"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "jalam",
+    "lemma": "jala",
+    "zh": "水",
+    "pos": "n",
+    "notes": [
+      "中性 -am 结尾",
+      "中性 -am，复数 jalāni"
+    ],
+    "units": [
+      1,
+      4
+    ],
+    "lessons": [
+      "u01l01",
+      "u04l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "janaḥ",
+    "lemma": "jana",
+    "zh": "人；人们",
+    "pos": "n",
+    "notes": [
+      "可指一个人，也可集合指人群",
+      "阳性 a-词干，复数 janāḥ"
+    ],
+    "units": [
+      1,
+      3
+    ],
+    "lessons": [
+      "u01l03",
+      "u03l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "janāḥ",
+    "lemma": "jana",
+    "zh": "人们",
+    "pos": "n",
+    "notes": [
+      "阳性复数主格"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "janaiḥ",
+    "lemma": "jana",
+    "zh": "和人们；用人们",
+    "pos": "n",
+    "notes": [
+      "janaḥ 的工具格复数"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l03"
+    ],
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "sa": "janānām",
+    "lemma": "jana",
+    "zh": "人们的",
+    "pos": "n",
+    "notes": [
+      "jana 的复数属格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "janapadaḥ",
+    "lemma": "janapadaḥ",
+    "zh": "乡间；地区",
+    "pos": "n",
+    "notes": [
+      "阳性；字面义「人群所居之地」。"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "jānāti",
+    "lemma": "jñā",
+    "zh": "知道",
+    "pos": "v",
+    "notes": [
+      "√jñā，第三人称单数"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "jayate",
+    "lemma": "ji",
+    "zh": "得胜；战胜",
+    "pos": "v",
+    "notes": [
+      "中间态第三人称单数"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "jñānam",
+    "lemma": "jñāna",
+    "zh": "知识；智慧",
+    "pos": "n",
+    "notes": [
+      "jñāna 是「知」的名词"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "jyeṣṭhaḥ",
+    "lemma": "jyeṣṭhaḥ",
+    "zh": "年长的；兄长",
+    "pos": "adj",
+    "notes": [
+      "由 jyā「更强」的比较级而来，家庭中指长子。"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "kā",
+    "lemma": "kim",
+    "zh": "谁（阴性）",
+    "pos": "pron",
+    "notes": [
+      "问女性"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kadā",
+    "lemma": "kadā",
+    "zh": "何时",
+    "pos": "ind",
+    "notes": [
+      "疑问词，放句首"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kadācit",
+    "lemma": "kadācit",
+    "zh": "有一次",
+    "pos": "ind",
+    "notes": [
+      "叙事里引出事件",
+      "也可写 kadā ca"
+    ],
+    "units": [
+      8,
+      9
+    ],
+    "lessons": [
+      "u08l03",
+      "u09l01"
+    ],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "sa": "kadalī",
+    "lemma": "kadalī",
+    "zh": "香蕉；香蕉树",
+    "pos": "n",
+    "notes": [
+      "阴性；叶常用于盛放食物。"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "kaḥ",
+    "lemma": "kim",
+    "zh": "谁（阳性）",
+    "pos": "pron",
+    "notes": [
+      "问男性"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kailāsaḥ",
+    "lemma": "kailāsaḥ",
+    "zh": "冈仁波齐；雪山",
+    "pos": "n",
+    "notes": [
+      "发音例词：ai 与长 ā 连用。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "kālaḥ",
+    "lemma": "kāla",
+    "zh": "时间；时节",
+    "pos": "n",
+    "notes": [
+      "也指「命运」，《薄伽梵歌》里作神的自称"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kalpaḥ",
+    "lemma": "kalpaḥ",
+    "zh": "劫；长时",
+    "pos": "n",
+    "notes": [
+      "宇宙成住坏空一期"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "kanyā",
+    "lemma": "kanyā",
+    "zh": "女儿；少女",
+    "pos": "n",
+    "notes": [
+      "阴性；也用于称呼未婚女子。"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "kārayati",
+    "lemma": "kṛ",
+    "zh": "使做；让人做",
+    "pos": "v",
+    "notes": [
+      "kṛ 的使役第三人称单数"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kariṣyati",
+    "lemma": "kṛ",
+    "zh": "将做",
+    "pos": "v",
+    "notes": [
+      "kṛ 的将来时第三人称单数"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "karma",
+    "lemma": "karma",
+    "zh": "业；行为",
+    "pos": "n",
+    "notes": [
+      "√kṛ 做；身口意之造作"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "kartavyam",
+    "lemma": "kartavya",
+    "zh": "应当做的；责任",
+    "pos": "adj",
+    "notes": [
+      "kṛ 的 -tavya 形"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kartum",
+    "lemma": "kṛ",
+    "zh": "做（不定式）",
+    "pos": "v",
+    "notes": [
+      "kṛ 的 -tum 形，无 i"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "karuṇā",
+    "lemma": "karuṇā",
+    "zh": "悲；慈悲",
+    "pos": "n",
+    "notes": [
+      "与 maitrī 慈并称"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "kāryam",
+    "lemma": "kārya",
+    "zh": "事情；工作",
+    "pos": "n",
+    "notes": [
+      "中性，由动词词根 kṛ 派生",
+      "中性，来自 kṛ 的将来分词"
+    ],
+    "units": [
+      5,
+      8
+    ],
+    "lessons": [
+      "u05l05",
+      "u08l05"
+    ],
+    "tags": [
+      "noun"
+    ]
+  },
+  {
+    "sa": "kaścit",
+    "lemma": "kaścit",
+    "zh": "某位；某个",
+    "pos": "pron",
+    "notes": [
+      "kim + cit，阳性主格"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kasmai",
+    "lemma": "kim",
+    "zh": "给谁",
+    "pos": "pron",
+    "notes": [
+      "kim 的与格；问接受者"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kathā",
+    "lemma": "kathā",
+    "zh": "话；故事",
+    "pos": "n",
+    "notes": [
+      "阴性 ā-词干，宾格 kathām"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l02"
+    ],
+    "tags": [
+      "noun"
+    ]
+  },
+  {
+    "sa": "katham",
+    "lemma": "katham",
+    "zh": "怎样；如何",
+    "pos": "ind",
+    "notes": [
+      "问候语 katham asi? 你好吗"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kathayati",
+    "lemma": "kathā",
+    "zh": "他讲；他讲述",
+    "pos": "v",
+    "notes": [
+      "第十类，词干 kathaya-"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l02"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "kati",
+    "lemma": "kati",
+    "zh": "几个；多少",
+    "pos": "pron",
+    "notes": [
+      "问可数数量，后面名词用复数",
+      "后面的名词用复数"
+    ],
+    "units": [
+      4,
+      6
+    ],
+    "lessons": [
+      "u04l05",
+      "u06l05"
+    ],
+    "tags": [
+      "question",
+      "market"
+    ]
+  },
+  {
+    "sa": "kaviḥ",
+    "lemma": "kaviḥ",
+    "zh": "诗人",
+    "pos": "n",
+    "notes": [
+      "阳性；原义「有洞察力者」。"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "kāvyam",
+    "lemma": "kāvyam",
+    "zh": "诗；文学作品",
+    "pos": "n",
+    "notes": [
+      "中性；kavi「诗人」的产物。"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "khādati",
+    "lemma": "khād",
+    "zh": "吃",
+    "pos": "v",
+    "notes": [
+      "第一类，词干 khāda-"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "khādayati",
+    "lemma": "khād",
+    "zh": "喂（使人吃）",
+    "pos": "v",
+    "notes": [
+      "khād 的使役"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "khādituṃ",
+    "lemma": "khād",
+    "zh": "吃（不定式）",
+    "pos": "v",
+    "notes": [
+      "khād 的 -tum 形"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "khādyate",
+    "lemma": "khādyate",
+    "zh": "被吃",
+    "pos": "v",
+    "notes": [
+      "khād 的被动；食物作主语。"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "khelati",
+    "lemma": "khelati",
+    "zh": "玩；游戏",
+    "pos": "v",
+    "notes": [
+      "第一类；名词 khelā「游戏」。"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "kim",
+    "lemma": "kim",
+    "zh": "什么",
+    "pos": "pron",
+    "notes": [
+      "中性，也用于句首表疑问",
+      "疑问代词，中性主格宾格同形"
+    ],
+    "units": [
+      2,
+      12
+    ],
+    "lessons": [
+      "u02l03",
+      "u12l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kleśaḥ",
+    "lemma": "kleśaḥ",
+    "zh": "烦恼",
+    "pos": "n",
+    "notes": [
+      "√kliś 染污；贪嗔痴等"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "krīṇāti",
+    "lemma": "krīṇāti",
+    "zh": "买",
+    "pos": "v",
+    "notes": [
+      "第九类；与 vikrīṇāti 只差一个前缀。"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "kriyate",
+    "lemma": "kṛ",
+    "zh": "被做",
+    "pos": "v",
+    "notes": [
+      "kṛ 的被动第三人称单数"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kṛpā",
+    "lemma": "kṛpā",
+    "zh": "请；恩惠",
+    "pos": "n",
+    "notes": [
+      "客气用语，也可说 kṛpayā"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kṛpayā",
+    "lemma": "kṛpā",
+    "zh": "请；劳驾",
+    "pos": "ind",
+    "notes": [
+      "原义「以恩惠」，礼貌语"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l03"
+    ],
+    "tags": [
+      "polite"
+    ]
+  },
+  {
+    "sa": "kṛṣakaḥ",
+    "lemma": "kṛṣaka",
+    "zh": "农夫",
+    "pos": "n",
+    "notes": [
+      "阳性 a-词干，主格 -aḥ"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kṛta",
+    "lemma": "kṛ",
+    "zh": "被做过的；已做的",
+    "pos": "adj",
+    "notes": [
+      "过去被动分词，不规则"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kṣaṇaḥ",
+    "lemma": "kṣaṇaḥ",
+    "zh": "刹那；瞬间",
+    "pos": "n",
+    "notes": [
+      "极短时分"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "kṣāntiḥ",
+    "lemma": "kṣāntiḥ",
+    "zh": "忍；堪忍",
+    "pos": "n",
+    "notes": [
+      "√kṣam 忍可；六度之一"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "kṣetram",
+    "lemma": "kṣetra",
+    "zh": "田地",
+    "pos": "n",
+    "notes": [
+      "中性 -am 结尾",
+      "中性；dharmakṣetre 中的 kṣetra"
+    ],
+    "units": [
+      9,
+      12
+    ],
+    "lessons": [
+      "u09l02",
+      "u12l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kṣipati",
+    "lemma": "kṣip",
+    "zh": "他扔；他投",
+    "pos": "v",
+    "notes": [
+      "第六类，词干 kṣipa-"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l02"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "kūpaḥ",
+    "lemma": "kūpaḥ",
+    "zh": "井",
+    "pos": "n",
+    "notes": [
+      "阳性；掘地取水之处。"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "kuru",
+    "lemma": "kuru",
+    "zh": "俱卢（族名、地名）",
+    "pos": "n",
+    "notes": [
+      "俱卢之野是两军对峙之地"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kutaḥ",
+    "lemma": "kutas",
+    "zh": "从哪儿",
+    "pos": "ind",
+    "notes": [
+      "疑问不变词，放句首"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kutra",
+    "lemma": "kutra",
+    "zh": "哪里",
+    "pos": "ind",
+    "notes": [
+      "疑问词，句末加问号即可"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kutumbaḥ",
+    "lemma": "kutumba",
+    "zh": "家庭；家人",
+    "pos": "n",
+    "notes": [
+      "阳性 a-词干，与 gṛham 分工不同"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kutumbānām",
+    "lemma": "kutumba",
+    "zh": "家人们的",
+    "pos": "n",
+    "notes": [
+      "kutumba 的复数属格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "kvacit",
+    "lemma": "kvacit",
+    "zh": "某处；有时",
+    "pos": "ind",
+    "notes": [
+      "kva「何处」+ cit 不定助词。"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "laghu",
+    "lemma": "laghu",
+    "zh": "轻的；轻音节",
+    "pos": "adj",
+    "notes": [
+      "诗律中短元音或短元音后接单辅音为 laghu。"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "lakṣmī",
+    "lemma": "lakṣmī",
+    "zh": "吉祥天女；吉祥",
+    "pos": "n",
+    "notes": [
+      "ṣ 卷舌，ī 长音"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "latā",
+    "lemma": "latā",
+    "zh": "藤；蔓",
+    "pos": "n",
+    "notes": [
+      "-ā 词干，主格 latā"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "lavaṇam",
+    "lemma": "lavaṇam",
+    "zh": "盐",
+    "pos": "n",
+    "notes": [
+      "中性；味觉「咸」也用它表达。"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "lekhinī",
+    "lemma": "lekhinī",
+    "zh": "笔",
+    "pos": "n",
+    "notes": [
+      "阴性 ī-词干",
+      "阴性 ī-词干，工具格 lekhinyā"
+    ],
+    "units": [
+      4,
+      6
+    ],
+    "lessons": [
+      "u04l04",
+      "u06l02"
+    ],
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "sa": "likhati",
+    "lemma": "likh",
+    "zh": "他写",
+    "pos": "v",
+    "notes": [
+      "第六类，词干 likha-"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l02"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "likhita",
+    "lemma": "likh",
+    "zh": "被写过的；写好的",
+    "pos": "adj",
+    "notes": [
+      "过去被动分词"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "likhyate",
+    "lemma": "likh",
+    "zh": "被写",
+    "pos": "v",
+    "notes": [
+      "likh 的被动第三人称单数"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "lokaḥ",
+    "lemma": "lokaḥ",
+    "zh": "世间；世界",
+    "pos": "n",
+    "notes": [
+      "√lok 见；众生所居"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "lokottaraḥ",
+    "lemma": "lokottaraḥ",
+    "zh": "出世间的",
+    "pos": "adj",
+    "notes": [
+      "loka + uttara 超越世间"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "lubdhakaḥ",
+    "lemma": "lubdhaka",
+    "zh": "猎人",
+    "pos": "n",
+    "notes": [
+      "来自 lubh「贪求」"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "mā",
+    "lemma": "mā",
+    "zh": "不要（禁止）",
+    "pos": "ind",
+    "notes": [
+      "后面接命令式或祈愿式"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "madhyamā",
+    "lemma": "madhyama",
+    "zh": "中的；中道",
+    "pos": "adj",
+    "notes": [
+      "阴性，与 pratipat 一致"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l03"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "madhyamakaḥ",
+    "lemma": "madhyamakaḥ",
+    "zh": "中观；中观派",
+    "pos": "n",
+    "notes": [
+      "madhyama 中 + -ka；龙树所立"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "mahārājaḥ",
+    "lemma": "mahārāja",
+    "zh": "大王",
+    "pos": "n",
+    "notes": [
+      "mahā 大 + rāja 王"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "mahāsattvaḥ",
+    "lemma": "mahāsattvaḥ",
+    "zh": "大士；摩诃萨",
+    "pos": "n",
+    "notes": [
+      "mahā 大 + sattva 有情"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "mahāvīraḥ",
+    "lemma": "mahāvīra",
+    "zh": "大英雄",
+    "pos": "n",
+    "notes": [
+      "mahā 大 + vīra 英雄"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "mahāyānam",
+    "lemma": "mahāyānam",
+    "zh": "大乘",
+    "pos": "n",
+    "notes": [
+      "mahā 大 + yāna 乘"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "maitrī",
+    "lemma": "maitrī",
+    "zh": "慈；慈心",
+    "pos": "n",
+    "notes": [
+      "mitra 友；愿众生安乐"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "mama",
+    "lemma": "aham",
+    "zh": "我的",
+    "pos": "pron",
+    "notes": [
+      "aham 的属格"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "māṃsam",
+    "lemma": "māṃsam",
+    "zh": "肉",
+    "pos": "n",
+    "notes": [
+      "中性；非素食语境使用。"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "manas",
+    "lemma": "manas",
+    "zh": "意；末那",
+    "pos": "n",
+    "notes": [
+      "思量；第六、七识之名"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "maṇḍalam",
+    "lemma": "maṇḍalam",
+    "zh": "坛城；曼荼罗",
+    "pos": "n",
+    "notes": [
+      "圆形、聚集"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "mantraḥ",
+    "lemma": "mantraḥ",
+    "zh": "咒；真言",
+    "pos": "n",
+    "notes": [
+      "man 思 + -tra；持诵之语"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "mārgaḥ",
+    "lemma": "mārga",
+    "zh": "道路",
+    "pos": "n",
+    "notes": [
+      "工具格 mārgeṇa，r 使 n 变卷舌 ṇ",
+      "阳性 a-词干；工具格 mārgeṇa",
+      "√mṛg 追寻；八正道之「道」"
+    ],
+    "units": [
+      6,
+      7
+    ],
+    "lessons": [
+      "u06l02",
+      "u07l05"
+    ],
+    "tags": [
+      "place",
+      "佛典"
+    ]
+  },
+  {
+    "sa": "mārgasatyam",
+    "lemma": "mārgasatyam",
+    "zh": "道谛",
+    "pos": "n",
+    "notes": [
+      "四圣谛之一；灭苦之道"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "mārge",
+    "lemma": "mārga",
+    "zh": "在路上",
+    "pos": "n",
+    "notes": [
+      "mārgaḥ 的处所格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "mātā",
+    "lemma": "mātṛ",
+    "zh": "母亲",
+    "pos": "n",
+    "notes": [
+      "词干 mātṛ，主格 mātā"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "mātāpitaraḥ",
+    "lemma": "mātāpitar",
+    "zh": "父母",
+    "pos": "n",
+    "notes": [
+      "dvandva，阳性复数"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "mātṛ",
+    "lemma": "mātṛ",
+    "zh": "母亲",
+    "pos": "n",
+    "notes": [
+      "与 pitṛ 同型"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "mātulaḥ",
+    "lemma": "mātulaḥ",
+    "zh": "舅舅",
+    "pos": "n",
+    "notes": [
+      "母亲的兄弟；注意不是「叔叔」。"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "mayā",
+    "lemma": "aham",
+    "zh": "被我（工具格）",
+    "pos": "pron",
+    "notes": [
+      "aham 的工具格，-ā 收尾"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "meghaḥ",
+    "lemma": "meghaḥ",
+    "zh": "云",
+    "pos": "n",
+    "notes": [
+      "阳性；雨季 megha-kāla 的字面义就是「云之时」。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "mitram",
+    "lemma": "mitra",
+    "zh": "朋友",
+    "pos": "n",
+    "notes": [
+      "中性 -am 结尾",
+      "中性 -a 词干"
+    ],
+    "units": [
+      3,
+      12
+    ],
+    "lessons": [
+      "u03l01",
+      "u12l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "mitrāṇām",
+    "lemma": "mitra",
+    "zh": "朋友们的",
+    "pos": "n",
+    "notes": [
+      "mitra 的复数属格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "mudrā",
+    "lemma": "mudrā",
+    "zh": "手印；印契",
+    "pos": "n",
+    "notes": [
+      "手势与象征"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "mūlyam",
+    "lemma": "mūlya",
+    "zh": "价格；价钱",
+    "pos": "n",
+    "notes": [
+      "中性 -am",
+      "中性，市场讲价的关键词"
+    ],
+    "units": [
+      4,
+      6
+    ],
+    "lessons": [
+      "u04l04",
+      "u06l04"
+    ],
+    "tags": [
+      "market"
+    ]
+  },
+  {
+    "sa": "na",
+    "lemma": "na",
+    "zh": "不；不是",
+    "pos": "ind",
+    "notes": [
+      "放动词前",
+      "放在句首表示否定"
+    ],
+    "units": [
+      2,
+      6
+    ],
+    "lessons": [
+      "u02l04",
+      "u06l05"
+    ],
+    "tags": [
+      "particle"
+    ]
+  },
+  {
+    "sa": "nadī",
+    "lemma": "nadī",
+    "zh": "河",
+    "pos": "n",
+    "notes": [
+      "-ī 词干，主格不以 ḥ 收尾",
+      "阴性 ī-词干，属格 nadyāḥ"
+    ],
+    "units": [
+      3,
+      10
+    ],
+    "lessons": [
+      "u03l03",
+      "u10l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nagaram",
+    "lemma": "nagara",
+    "zh": "城；城市",
+    "pos": "n",
+    "notes": [
+      "中性 -am 结尾"
+    ],
+    "units": [
+      3,
+      9
+    ],
+    "lessons": [
+      "u03l01",
+      "u09l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nagarāt",
+    "lemma": "nagara",
+    "zh": "从城里",
+    "pos": "n",
+    "notes": [
+      "nagara 的从格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nagare",
+    "lemma": "nagara",
+    "zh": "在城里",
+    "pos": "n",
+    "notes": [
+      "nagaram 的处所格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nagarī",
+    "lemma": "nagarī",
+    "zh": "城市",
+    "pos": "n",
+    "notes": [
+      "阴性；nagara 的阴性形式，常作城名后缀。"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "nāma",
+    "lemma": "nāman",
+    "zh": "名字",
+    "pos": "n",
+    "notes": [
+      "中性；nāma kim? 叫什么"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "namaḥ",
+    "lemma": "namas",
+    "zh": "致敬；礼敬",
+    "pos": "ind",
+    "notes": [
+      "见面、告别、向老师行礼都可用",
+      "√nam 致敬；常接与格"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l01"
+    ],
+    "tags": [
+      "greeting",
+      "佛典"
+    ]
+  },
+  {
+    "sa": "nāmarūpam",
+    "lemma": "nāmarūpam",
+    "zh": "名色",
+    "pos": "n",
+    "notes": [
+      "精神与物质；十二缘起支"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "namati",
+    "lemma": "namati",
+    "zh": "鞠躬；敬礼",
+    "pos": "v",
+    "notes": [
+      "第一类；namaste 的 namas 同源。"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "nanu",
+    "lemma": "nanu",
+    "zh": "难道不……吗",
+    "pos": "ind",
+    "notes": [
+      "期待肯定答复"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "narapatiḥ",
+    "lemma": "narapatiḥ",
+    "zh": "国王",
+    "pos": "n",
+    "notes": [
+      "阳性；nara「人」+ pati「主」。"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "nāsti",
+    "lemma": "nāsti",
+    "zh": "没有；不存在",
+    "pos": "v",
+    "notes": [
+      "na + asti 的合音"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nava",
+    "lemma": "nava",
+    "zh": "九",
+    "pos": "num",
+    "notes": [
+      "与 nava「新的」同形，靠语境区分"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "nayanaiḥ",
+    "lemma": "nayana",
+    "zh": "用双眼",
+    "pos": "n",
+    "notes": [
+      "nayanam 中性，工具格复数 nayanaiḥ"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l03"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "sa": "nayanam",
+    "lemma": "nayana",
+    "zh": "眼睛",
+    "pos": "n",
+    "notes": [
+      "两个 n 都是齿音"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nayati",
+    "lemma": "nī",
+    "zh": "他带领",
+    "pos": "v",
+    "notes": [
+      "nī 的 guṇa 形式是 ne"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l01"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "nāyayati",
+    "lemma": "nī",
+    "zh": "使带领；带孩子去",
+    "pos": "v",
+    "notes": [
+      "nī 的使役"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nidhānam",
+    "lemma": "nidhāna",
+    "zh": "宝藏；归宿",
+    "pos": "n",
+    "notes": [
+      "ni-dhā 的派生"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nidrā",
+    "lemma": "nidrā",
+    "zh": "睡眠",
+    "pos": "n",
+    "notes": [
+      "阴性 ā-词干"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l05"
+    ],
+    "tags": [
+      "noun"
+    ]
+  },
+  {
+    "sa": "niḥsvabhāvaḥ",
+    "lemma": "niḥsvabhāvaḥ",
+    "zh": "无自性的",
+    "pos": "adj",
+    "notes": [
+      "niḥ 无 + svabhāva 自性"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "nikāyaḥ",
+    "lemma": "nikāyaḥ",
+    "zh": "部派；尼柯耶",
+    "pos": "n",
+    "notes": [
+      "ni-√kī 聚集；经集或部派"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "nīlotpalam",
+    "lemma": "nīlotpala",
+    "zh": "蓝莲花",
+    "pos": "n",
+    "notes": [
+      "nīla 蓝 + utpala 莲"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nirmāṇakāyaḥ",
+    "lemma": "nirmāṇakāyaḥ",
+    "zh": "化身",
+    "pos": "n",
+    "notes": [
+      "三身之一；应化现身"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "nirodhasatyam",
+    "lemma": "nirodhasatyam",
+    "zh": "灭谛",
+    "pos": "n",
+    "notes": [
+      "四圣谛之一；苦之止息"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "nirvāṇadhātuḥ",
+    "lemma": "nirvāṇadhātuḥ",
+    "zh": "涅槃界",
+    "pos": "n",
+    "notes": [
+      "nirvāṇa + dhātu 界"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "nivāsaḥ",
+    "lemma": "nivāsa",
+    "zh": "住处；居所",
+    "pos": "n",
+    "notes": [
+      "比 gṛham 更正式，可指住宅"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "nīyate",
+    "lemma": "nīyate",
+    "zh": "被带走",
+    "pos": "v",
+    "notes": [
+      "nī 的被动；ī 变 i 加 -ya-。"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "nṛtyati",
+    "lemma": "nṛt",
+    "zh": "他跳舞",
+    "pos": "v",
+    "notes": [
+      "第四类，注意 ṛ 与卷舌 ṇ"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l02"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "nūtana",
+    "lemma": "nūtana",
+    "zh": "新的",
+    "pos": "adj",
+    "notes": [
+      "修饰阳性用 nūtanaḥ"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "odanam",
+    "lemma": "odana",
+    "zh": "米饭；饭",
+    "pos": "n",
+    "notes": [
+      "中性 -am，指煮熟的饭",
+      "中性 -am 结尾"
+    ],
+    "units": [
+      4,
+      10
+    ],
+    "lessons": [
+      "u04l05",
+      "u10l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ojas",
+    "lemma": "ojas",
+    "zh": "光力；活力",
+    "pos": "n",
+    "notes": [
+      "以辅音 s 结尾，主格就是 ojas"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "oṃ",
+    "lemma": "oṃ",
+    "zh": "唵；咒首字",
+    "pos": "ind",
+    "notes": [
+      "咒语开头的神圣音节"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "pācyate",
+    "lemma": "pācyate",
+    "zh": "被煮",
+    "pos": "v",
+    "notes": [
+      "pac 的被动；同时是使役词干 pac-aya-。"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "pādaḥ",
+    "lemma": "pāda",
+    "zh": "脚",
+    "pos": "n",
+    "notes": [
+      "工具格 pādena；也指诗的一「句」"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l02"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "sa": "palāyitvā",
+    "lemma": "palāy",
+    "zh": "逃走后",
+    "pos": "v",
+    "notes": [
+      "gerund（连续动词）"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pañca",
+    "lemma": "pañca",
+    "zh": "五",
+    "pos": "num",
+    "notes": [
+      "数词，后面学 1–10",
+      "ñ 读 /ɲ/，像汉语「尼」加鼻音"
+    ],
+    "units": [
+      1,
+      6
+    ],
+    "lessons": [
+      "u01l03",
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "pañcaśīlam",
+    "lemma": "pañcaśīlam",
+    "zh": "五戒",
+    "pos": "n",
+    "notes": [
+      "不杀、不盗、不邪淫、不妄语、不饮酒"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "pañcaskandhāḥ",
+    "lemma": "pañcaskandhāḥ",
+    "zh": "五蕴",
+    "pos": "n",
+    "notes": [
+      "色受想行识"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "pāṇḍavāḥ",
+    "lemma": "pāṇḍava",
+    "zh": "般度之子们",
+    "pos": "n",
+    "notes": [
+      "Pāṇḍu 的后代，即五兄弟"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pānīyam",
+    "lemma": "pānīya",
+    "zh": "饮用水",
+    "pos": "n",
+    "notes": [
+      "中性 -am，专指可饮之水"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "panthāḥ",
+    "lemma": "panthan",
+    "zh": "道路",
+    "pos": "n",
+    "notes": [
+      "不规则词干"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pāpaḥ",
+    "lemma": "pāpaḥ",
+    "zh": "恶；罪",
+    "pos": "n",
+    "notes": [
+      "不善之法"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "parājayaḥ",
+    "lemma": "parājayaḥ",
+    "zh": "失败；败北",
+    "pos": "n",
+    "notes": [
+      "阳性；para-「对方」+ jaya「胜利」。"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "paramam",
+    "lemma": "parama",
+    "zh": "最高的；至上的",
+    "pos": "adj",
+    "notes": [
+      "中性 -am"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "paramārthaḥ",
+    "lemma": "paramārthaḥ",
+    "zh": "胜义；第一义",
+    "pos": "n",
+    "notes": [
+      "parama 最上 + artha 义"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "pāramitā",
+    "lemma": "pāramitā",
+    "zh": "到彼岸；波罗蜜多",
+    "pos": "n",
+    "notes": [
+      "pāram 彼岸 + -tā；六度的通名",
+      "pāram 彼岸 + -tā；六度之通名"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l02"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "parasmin varṣe",
+    "lemma": "para varṣa",
+    "zh": "在明年",
+    "pos": "phrase",
+    "notes": [
+      "parasmin 是处所格「在下一个」，varṣe 是「年」"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "parīkṣā",
+    "lemma": "parīkṣā",
+    "zh": "考试；检验",
+    "pos": "n",
+    "notes": [
+      "阴性；pari-「全面」+ īkṣ「看」。"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "parvataḥ",
+    "lemma": "parvataḥ",
+    "zh": "山",
+    "pos": "n",
+    "notes": [
+      "阳性；比 giri 更强调「山岳」。"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "paśyati",
+    "lemma": "paś",
+    "zh": "他看；他看见",
+    "pos": "v",
+    "notes": [
+      "第四类，词干 paśya-，下一课细讲"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l01"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "paṭha",
+    "lemma": "paṭh",
+    "zh": "读！（命令式）",
+    "pos": "v",
+    "notes": [
+      "第二人称单数，词干直接使用"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l03"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "paṭhan",
+    "lemma": "paṭh",
+    "zh": "读着的",
+    "pos": "adj",
+    "notes": [
+      "paṭh 的现在分词阳性主格"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "paṭhati",
+    "lemma": "paṭh",
+    "zh": "读",
+    "pos": "v",
+    "notes": [
+      "卷舌 ṭh，不是齿音 th"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pāṭhayati",
+    "lemma": "paṭh",
+    "zh": "教（使人读）",
+    "pos": "v",
+    "notes": [
+      "paṭh 的使役，注意长 ā"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "paṭhet",
+    "lemma": "paṭh",
+    "zh": "但愿他读；请他读",
+    "pos": "v",
+    "notes": [
+      "paṭh 的祈愿式第三人称单数"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pathikaḥ",
+    "lemma": "pathikaḥ",
+    "zh": "旅人",
+    "pos": "n",
+    "notes": [
+      "阳性；由 pathin「道路」派生。"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "paṭhituṃ",
+    "lemma": "paṭh",
+    "zh": "读（不定式）",
+    "pos": "v",
+    "notes": [
+      "paṭh 的 -tum 形"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "paṭhyate",
+    "lemma": "paṭh",
+    "zh": "被读",
+    "pos": "v",
+    "notes": [
+      "paṭh 的被动第三人称单数"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "patiḥ",
+    "lemma": "pati",
+    "zh": "丈夫",
+    "pos": "n",
+    "notes": [
+      "阳性 i-词干，属格 patyuḥ"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "patnī",
+    "lemma": "patnī",
+    "zh": "妻子",
+    "pos": "n",
+    "notes": [
+      "阴性 ī-词干"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "patram",
+    "lemma": "patra",
+    "zh": "叶；信",
+    "pos": "n",
+    "notes": [
+      "复数 patrāṇi，r 后 n 变 ṇ",
+      "中性，主格宾格同形"
+    ],
+    "units": [
+      4,
+      10
+    ],
+    "lessons": [
+      "u04l03",
+      "u10l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "phalam",
+    "lemma": "phala",
+    "zh": "果实；结果",
+    "pos": "n",
+    "notes": [
+      "ph 送气，不是 p",
+      "中性 -am",
+      "√phal 成熟"
+    ],
+    "units": [
+      1,
+      4
+    ],
+    "lessons": [
+      "u01l05",
+      "u04l03"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "phalāni",
+    "lemma": "phala",
+    "zh": "果子（复数）",
+    "pos": "n",
+    "notes": [
+      "中性复数主格/宾格"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pibati",
+    "lemma": "pib",
+    "zh": "喝",
+    "pos": "v",
+    "notes": [
+      "第一类，词干 piba-"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pitā",
+    "lemma": "pitṛ",
+    "zh": "父亲",
+    "pos": "n",
+    "notes": [
+      "词干 pitṛ，主格 pitā，阳性"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pitāmahaḥ",
+    "lemma": "pitāmahaḥ",
+    "zh": "祖父",
+    "pos": "n",
+    "notes": [
+      "字面义「父亲的父亲」。"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "pītāmbaraḥ",
+    "lemma": "pītāmbara",
+    "zh": "穿黄衣者",
+    "pos": "n",
+    "notes": [
+      "bahuvrīhi，指「有黄衣的人」"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pitṛ",
+    "lemma": "pitṛ",
+    "zh": "父亲",
+    "pos": "n",
+    "notes": [
+      "ṛ-词干，变格时会变成 pitā"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pracakṣmahe",
+    "lemma": "pracakṣ",
+    "zh": "我们称；我们宣说",
+    "pos": "v",
+    "notes": [
+      "pra-√cakṣ 宣称；中间态第一人称复数"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "prajñā",
+    "lemma": "prajñā",
+    "zh": "慧；般若",
+    "pos": "n",
+    "notes": [
+      "pra + jñā 知；辨识法义的智慧",
+      "pra + jñā 知；辨别法义之慧"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l02"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "prajñāpāramitā",
+    "lemma": "prajñāpāramitā",
+    "zh": "般若波罗蜜多",
+    "pos": "n",
+    "notes": [
+      "prajñā + pāramitā；慧到彼岸"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "prajñaptiḥ",
+    "lemma": "prajñapti",
+    "zh": "施设；假名；安立",
+    "pos": "n",
+    "notes": [
+      "约定安立，非独立实有",
+      "√prajñā 使知；约定安立而非实有"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l03"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "prākāraḥ",
+    "lemma": "prākāraḥ",
+    "zh": "城墙；围墙",
+    "pos": "n",
+    "notes": [
+      "阳性；环绕城市的防御墙。"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "prātaḥ",
+    "lemma": "prātar",
+    "zh": "早晨",
+    "pos": "ind",
+    "notes": [
+      "末尾是 visarga"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l04"
+    ],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "sa": "pratidinam",
+    "lemma": "pratidinam",
+    "zh": "每天",
+    "pos": "ind",
+    "notes": [
+      "avyayībhāva，作时间状语"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pratipat",
+    "lemma": "pratipat",
+    "zh": "道；途径",
+    "pos": "n",
+    "notes": [
+      "阴性；八正道之「道」也用它"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pratītyasamutpādaḥ",
+    "lemma": "pratītyasamutpāda",
+    "zh": "缘起；依待而生",
+    "pos": "n",
+    "notes": [
+      "pratītya 依待 + samutpāda 生起"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l03"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "priyaḥ",
+    "lemma": "priya",
+    "zh": "亲爱的；可爱的",
+    "pos": "adj",
+    "notes": [
+      "阳性；阴性 priyā",
+      "常与属格或与格连用"
+    ],
+    "units": [
+      3,
+      11
+    ],
+    "lessons": [
+      "u03l05",
+      "u11l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pṛthivī",
+    "lemma": "pṛthivī",
+    "zh": "大地；地球",
+    "pos": "n",
+    "notes": [
+      "发音例词：含 ṛ 与长 ī。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "pṛthivyām",
+    "lemma": "pṛthivī",
+    "zh": "在大地上",
+    "pos": "n",
+    "notes": [
+      "阴性 ī-词干，格尾 -yām"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pūjayati",
+    "lemma": "pūjayati",
+    "zh": "供养；礼敬",
+    "pos": "v",
+    "notes": [
+      "使役形式，词根 pūj「敬奉」。"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "pūjyate",
+    "lemma": "pūj",
+    "zh": "被尊崇",
+    "pos": "v",
+    "notes": [
+      "现在时被动，第三人称单数"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "punar",
+    "lemma": "punar",
+    "zh": "再；又一次",
+    "pos": "ind",
+    "notes": [
+      "末尾 r 要轻颤",
+      "紧挨动词前"
+    ],
+    "units": [
+      5,
+      9
+    ],
+    "lessons": [
+      "u05l03",
+      "u09l01"
+    ],
+    "tags": [
+      "adverb",
+      "time"
+    ]
+  },
+  {
+    "sa": "puṇyam",
+    "lemma": "puṇyam",
+    "zh": "福；功德",
+    "pos": "n",
+    "notes": [
+      "善业所感"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "purā",
+    "lemma": "purā",
+    "zh": "从前",
+    "pos": "ind",
+    "notes": [
+      "故事开头的标准词"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "puraskāraḥ",
+    "lemma": "puraskāraḥ",
+    "zh": "奖励；奖品",
+    "pos": "n",
+    "notes": [
+      "阳性；purus「在前」+ kāra「做」，即表彰。"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "puṣpam",
+    "lemma": "puṣpa",
+    "zh": "花",
+    "pos": "n",
+    "notes": [
+      "复数 puṣpāṇi，ṣ 后 n 变 ṇ"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "pustakam",
+    "lemma": "pustaka",
+    "zh": "书",
+    "pos": "n",
+    "notes": [
+      "中性 -am，复数 pustakāni",
+      "中性 a-词干，与格 pustakāya",
+      "中性 -am 结尾"
+    ],
+    "units": [
+      4,
+      6,
+      10
+    ],
+    "lessons": [
+      "u04l04",
+      "u06l04",
+      "u10l01"
+    ],
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "sa": "putraḥ",
+    "lemma": "putra",
+    "zh": "儿子",
+    "pos": "n",
+    "notes": [
+      "齿音 t，不是 ṭ",
+      "阳性 a-词干"
+    ],
+    "units": [
+      1,
+      3
+    ],
+    "lessons": [
+      "u01l04",
+      "u03l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "putraiḥ",
+    "lemma": "putra",
+    "zh": "和儿子们；用儿子们",
+    "pos": "n",
+    "notes": [
+      "putraḥ 的工具格复数"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l03"
+    ],
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "sa": "putrāṇām",
+    "lemma": "putra",
+    "zh": "儿子们的",
+    "pos": "n",
+    "notes": [
+      "putra 的复数属格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "putrī",
+    "lemma": "putrī",
+    "zh": "女儿",
+    "pos": "n",
+    "notes": [
+      "阴性；putra「儿子」的阴性对应形式。"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "rājā",
+    "lemma": "rājan",
+    "zh": "国王",
+    "pos": "n",
+    "notes": [
+      "词干 rājan-，与格 rājñe",
+      "复习 U6；主格 rājā"
+    ],
+    "units": [
+      6,
+      8
+    ],
+    "lessons": [
+      "u06l04",
+      "u08l03"
+    ],
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "sa": "rājaputraḥ",
+    "lemma": "rājaputra",
+    "zh": "王子",
+    "pos": "n",
+    "notes": [
+      "rājan 王 + putra 子，tatpuruṣa"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "rājñī",
+    "lemma": "rājñī",
+    "zh": "王后",
+    "pos": "n",
+    "notes": [
+      "rājan 的阴性形式，-ī 词干"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "rājyam",
+    "lemma": "rājya",
+    "zh": "王国",
+    "pos": "n",
+    "notes": [
+      "中性，处所格 rājye"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "rāmaḥ",
+    "lemma": "rāma",
+    "zh": "罗摩（人名）",
+    "pos": "n",
+    "notes": [
+      "史诗《罗摩衍那》的主角"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "rāmāṇām",
+    "lemma": "rāma",
+    "zh": "罗摩他们的",
+    "pos": "n",
+    "notes": [
+      "rāma 的复数属格，卷舌 ṇ"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "rāmeṇa",
+    "lemma": "rāma",
+    "zh": "被罗摩",
+    "pos": "n",
+    "notes": [
+      "阳性 a-词干工具格 -ena"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "rasaḥ",
+    "lemma": "rasaḥ",
+    "zh": "味；情感",
+    "pos": "n",
+    "notes": [
+      "阳性；戏剧与诗学中的「情味」。"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "rathaḥ",
+    "lemma": "rathaḥ",
+    "zh": "战车",
+    "pos": "n",
+    "notes": [
+      "阳性；《薄伽梵歌》开篇即战车之场。"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "rātrau",
+    "lemma": "rātri",
+    "zh": "在夜里",
+    "pos": "n",
+    "notes": [
+      "rātri 的处所格，表时间点"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ṛddhiḥ",
+    "lemma": "ṛddhiḥ",
+    "zh": "神通；神变",
+    "pos": "n",
+    "notes": [
+      "√ṛdh 成就"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "roditi",
+    "lemma": "roditi",
+    "zh": "哭",
+    "pos": "v",
+    "notes": [
+      "第一类；现在时词干 roda-。"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "ṛṣiḥ",
+    "lemma": "ṛṣi",
+    "zh": "仙人；智者",
+    "pos": "n",
+    "notes": [
+      "古代经典的作者被称为 ṛṣi"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "rūpam",
+    "lemma": "rūpa",
+    "zh": "色；形体；物质",
+    "pos": "n",
+    "notes": [
+      "中性；五蕴之首"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l02"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "rūpyakāḥ",
+    "lemma": "rūpyaka",
+    "zh": "卢比（复数）",
+    "pos": "n",
+    "notes": [
+      "长音 ū，复数主格 -āḥ",
+      "阳性复数；单数 rūpyakaḥ"
+    ],
+    "units": [
+      4,
+      6
+    ],
+    "lessons": [
+      "u04l05",
+      "u06l05"
+    ],
+    "tags": [
+      "market"
+    ]
+  },
+  {
+    "sa": "sā",
+    "lemma": "tad",
+    "zh": "她；那个",
+    "pos": "pron",
+    "notes": [
+      "阴性主格单数",
+      "主句里与 yā 呼应"
+    ],
+    "units": [
+      2,
+      11
+    ],
+    "lessons": [
+      "u02l01",
+      "u11l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ṣaḍāyatanam",
+    "lemma": "ṣaḍāyatanam",
+    "zh": "六处；六入",
+    "pos": "n",
+    "notes": [
+      "眼耳鼻舌身意"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "sādhu",
+    "lemma": "sādhu",
+    "zh": "好；行；善",
+    "pos": "ind",
+    "notes": [
+      "交易里表示「成交」",
+      "赞同时说，语气比 uttamam 更庄重"
+    ],
+    "units": [
+      6,
+      9
+    ],
+    "lessons": [
+      "u06l05",
+      "u09l01"
+    ],
+    "tags": [
+      "market"
+    ]
+  },
+  {
+    "sa": "saḥ",
+    "lemma": "tad",
+    "zh": "他；那个",
+    "pos": "pron",
+    "notes": [
+      "阳性主格单数",
+      "主句里与 yaḥ 呼应"
+    ],
+    "units": [
+      2,
+      11
+    ],
+    "lessons": [
+      "u02l01",
+      "u11l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "saha",
+    "lemma": "saha",
+    "zh": "一起",
+    "pos": "ind",
+    "notes": [
+      "和谁一起要用工具格，U6 细讲"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l03"
+    ],
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "sa": "sahāyaḥ",
+    "lemma": "sahāya",
+    "zh": "朋友；同伴",
+    "pos": "n",
+    "notes": [
+      "工具格 sahāyena"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l02"
+    ],
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "sa": "sahāyaiḥ",
+    "lemma": "sahāya",
+    "zh": "和朋友们",
+    "pos": "n",
+    "notes": [
+      "sahāyaḥ 的工具格复数"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l03"
+    ],
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "sa": "sainyam",
+    "lemma": "sainya",
+    "zh": "军队",
+    "pos": "n",
+    "notes": [
+      "中性 -am 结尾"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śākam",
+    "lemma": "śākam",
+    "zh": "蔬菜",
+    "pos": "n",
+    "notes": [
+      "中性；也指可煮食的草本。"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "śaknoti",
+    "lemma": "śak",
+    "zh": "能够",
+    "pos": "v",
+    "notes": [
+      "第三人称；第一人称 śaknomi"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śakyaṃ",
+    "lemma": "śakya",
+    "zh": "可能的（中性形）",
+    "pos": "adj",
+    "notes": [
+      "śakyaṃ bhavet 意为「如果可能」"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śālā",
+    "lemma": "śālā",
+    "zh": "学校；厅堂",
+    "pos": "n",
+    "notes": [
+      "阴性 ā-词干，宾格 śālām"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l05"
+    ],
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "sa": "samādhiḥ",
+    "lemma": "samādhiḥ",
+    "zh": "定；三摩地",
+    "pos": "n",
+    "notes": [
+      "sam-ā-dhā 摄心一处"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "samathaḥ",
+    "lemma": "samathaḥ",
+    "zh": "止；寂止",
+    "pos": "n",
+    "notes": [
+      "√śam 止息；令心安静"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "samavetāḥ",
+    "lemma": "samaveta",
+    "zh": "聚集的",
+    "pos": "adj",
+    "notes": [
+      "sam + ava + ita，过去分词"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "saṃbhogakāyaḥ",
+    "lemma": "saṃbhogakāyaḥ",
+    "zh": "报身",
+    "pos": "n",
+    "notes": [
+      "三身之一；受用净法"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "saṃghaḥ",
+    "lemma": "saṃghaḥ",
+    "zh": "僧团；众",
+    "pos": "n",
+    "notes": [
+      "sam-√han 和合众"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "samīpe",
+    "lemma": "samīpa",
+    "zh": "在附近",
+    "pos": "ind",
+    "notes": [
+      "第七格形作副词"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "saṃjñā",
+    "lemma": "saṃjñā",
+    "zh": "想；知觉；概念",
+    "pos": "n",
+    "notes": [
+      "saṃ-jñā 认知标记；五蕴之一"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "saṃkleśaḥ",
+    "lemma": "saṃkleśaḥ",
+    "zh": "杂染；烦恼",
+    "pos": "n",
+    "notes": [
+      "sam-√kliś 染污"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "saṃprati",
+    "lemma": "saṃprati",
+    "zh": "此刻；现在",
+    "pos": "ind",
+    "notes": [
+      "比 idānīm 更强调当下"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "saṃsāraḥ",
+    "lemma": "saṃsāraḥ",
+    "zh": "轮回；流转",
+    "pos": "n",
+    "notes": [
+      "sam-√sṛ 流转；十二缘起所摄"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "saṃskārāḥ",
+    "lemma": "saṃskārāḥ",
+    "zh": "行；造作；诸行",
+    "pos": "n",
+    "notes": [
+      "saṃ-kṛ 合成；五蕴之一，复数"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "saṃskṛtaḥ",
+    "lemma": "saṃskṛtaḥ",
+    "zh": "有为的；被造作的",
+    "pos": "adj",
+    "notes": [
+      "sam-kṛ 合成"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "saṃskṛtam",
+    "lemma": "saṃskṛta",
+    "zh": "梵语；被整理完美的",
+    "pos": "n",
+    "notes": [
+      "saṃ + kṛta，字面「善加整理」",
+      "字面义「整理完善的」"
+    ],
+    "units": [
+      1,
+      9
+    ],
+    "lessons": [
+      "u01l05",
+      "u09l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "samudayasatyam",
+    "lemma": "samudayasatyam",
+    "zh": "集谛",
+    "pos": "n",
+    "notes": [
+      "四圣谛之一；苦之因"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "samudraḥ",
+    "lemma": "samudraḥ",
+    "zh": "海",
+    "pos": "n",
+    "notes": [
+      "阳性；字面义「水的聚集」。"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "saṃvṛtiḥ",
+    "lemma": "saṃvṛtiḥ",
+    "zh": "世俗；覆障",
+    "pos": "n",
+    "notes": [
+      "sam-√vṛ 覆盖；世俗谛"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "śanaiḥ",
+    "lemma": "śanais",
+    "zh": "慢；慢慢地",
+    "pos": "ind",
+    "notes": [
+      "末尾是 visarga ḥ"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l03"
+    ],
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "sa": "sañjaya",
+    "lemma": "sañjaya",
+    "zh": "全胜（人名）",
+    "pos": "n",
+    "notes": [
+      "Dhṛtarāṣṭra 的御者，呼格"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śāntaḥ",
+    "lemma": "śānta",
+    "zh": "平静的",
+    "pos": "adj",
+    "notes": [
+      "来自 śam「止息」"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "santi",
+    "lemma": "as",
+    "zh": "有；是（复数）",
+    "pos": "v",
+    "notes": [
+      "第三人称复数，主语是复数时用"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śāntiḥ",
+    "lemma": "śānti",
+    "zh": "和平；寂静",
+    "pos": "n",
+    "notes": [
+      "ś 舌面音"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "saphalaḥ",
+    "lemma": "saphalaḥ",
+    "zh": "有成果的；成功的",
+    "pos": "adj",
+    "notes": [
+      "sa-「有」+ phala「果实」。"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "sapta",
+    "lemma": "sapta",
+    "zh": "七",
+    "pos": "num",
+    "notes": [
+      "与英语 seven 同源"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "saraḥ",
+    "lemma": "saraḥ",
+    "zh": "湖",
+    "pos": "n",
+    "notes": [
+      "中性；大而静的水面。"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "śaraṇam",
+    "lemma": "śaraṇam",
+    "zh": "归依处；庇护",
+    "pos": "n",
+    "notes": [
+      "√śṛ 依止"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "sarkarā",
+    "lemma": "sarkarā",
+    "zh": "糖",
+    "pos": "n",
+    "notes": [
+      "阴性；也指砂糖颗粒。"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "sarvajñaḥ",
+    "lemma": "sarvajña",
+    "zh": "全知者",
+    "pos": "n",
+    "notes": [
+      "bahuvrīhi，指知道一切的人"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "sarvatra",
+    "lemma": "sarvatra",
+    "zh": "到处",
+    "pos": "ind",
+    "notes": [
+      "sarva「一切」+ tra 处所后缀。"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "sarveṣām",
+    "lemma": "sarva",
+    "zh": "所有的",
+    "pos": "pron",
+    "notes": [
+      "代词性变化，-eṣām"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ṣaṣ",
+    "lemma": "ṣaṣ",
+    "zh": "六",
+    "pos": "num",
+    "notes": [
+      "以辅音结尾，读作 ṣaṣ",
+      "两个卷舌 ṣ，单独念时收 -ṣ"
+    ],
+    "units": [
+      1,
+      6
+    ],
+    "lessons": [
+      "u01l05",
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "śastram",
+    "lemma": "śastram",
+    "zh": "武器",
+    "pos": "n",
+    "notes": [
+      "中性；śastra 泛指兵器，astra 特指投射武器。"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "śāstram",
+    "lemma": "śāstram",
+    "zh": "论；论典",
+    "pos": "n",
+    "notes": [
+      "√śās 教诫；后世论师之作"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "satatam",
+    "lemma": "satatam",
+    "zh": "总是；不断地",
+    "pos": "ind",
+    "notes": [
+      "表示习惯"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l04"
+    ],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "sa": "ṣaṭpāramitāḥ",
+    "lemma": "ṣaṭpāramitāḥ",
+    "zh": "六度；六波罗蜜多",
+    "pos": "n",
+    "notes": [
+      "布施、持戒、忍辱、精进、禅定、般若"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "śatruḥ",
+    "lemma": "śatruḥ",
+    "zh": "敌人",
+    "pos": "n",
+    "notes": [
+      "阳性；史诗叙事中的对立面。"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "sattvaḥ",
+    "lemma": "sattvaḥ",
+    "zh": "有情；众生",
+    "pos": "n",
+    "notes": [
+      "sat 存在者"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "satyam",
+    "lemma": "satya",
+    "zh": "真实；真理",
+    "pos": "n",
+    "notes": [
+      "中性 -am；etat satyam 这是真的"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "sāyam",
+    "lemma": "sāyam",
+    "zh": "傍晚",
+    "pos": "ind",
+    "notes": [
+      "与 prātaḥ 成对"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l04"
+    ],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "sa": "senāpatiḥ",
+    "lemma": "senāpatiḥ",
+    "zh": "将军",
+    "pos": "n",
+    "notes": [
+      "阳性；senā「军队」+ pati「主」。"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "setuḥ",
+    "lemma": "setu",
+    "zh": "桥",
+    "pos": "n",
+    "notes": [
+      "阳性 u-词干，主格 setuḥ"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śīghram",
+    "lemma": "śīghra",
+    "zh": "快；迅速地",
+    "pos": "ind",
+    "notes": [
+      "与 śanaiḥ 相对"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l03"
+    ],
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "sa": "śikṣā",
+    "lemma": "śikṣā",
+    "zh": "教育；学习",
+    "pos": "n",
+    "notes": [
+      "阴性；动词 śikṣ「学习、教」。"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "śīlam",
+    "lemma": "śīlam",
+    "zh": "戒；尸罗",
+    "pos": "n",
+    "notes": [
+      "戒律、调伏"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "siṃhaḥ",
+    "lemma": "siṃha",
+    "zh": "狮子",
+    "pos": "n",
+    "notes": [
+      "阳性 -a 词干"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "sītā",
+    "lemma": "sītā",
+    "zh": "悉多（人名）",
+    "pos": "n",
+    "notes": [
+      "《罗摩衍那》的女主角，-ā 词干"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śītalam",
+    "lemma": "śītala",
+    "zh": "凉的",
+    "pos": "adj",
+    "notes": [
+      "开头是 ś，不是 s"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ślokaḥ",
+    "lemma": "ślokaḥ",
+    "zh": "颂；诗节",
+    "pos": "n",
+    "notes": [
+      "阳性；《薄伽梵歌》共 700 颂。"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "smarati",
+    "lemma": "smarati",
+    "zh": "记得；思念",
+    "pos": "v",
+    "notes": [
+      "第一类；名词 smṛti「记忆」。"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "smṛtiḥ",
+    "lemma": "smṛtiḥ",
+    "zh": "念；忆持",
+    "pos": "n",
+    "notes": [
+      "√smṛ 记忆；不忘所缘"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "smṛtyupasthānam",
+    "lemma": "smṛtyupasthānam",
+    "zh": "四念处；念住",
+    "pos": "n",
+    "notes": [
+      "身、受、心、法四种观照"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "sparśaḥ",
+    "lemma": "sparśaḥ",
+    "zh": "触；接触",
+    "pos": "n",
+    "notes": [
+      "根境识三和合"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "śramaḥ",
+    "lemma": "śrama",
+    "zh": "疲劳",
+    "pos": "n",
+    "notes": [
+      "阳性，主格 śramaḥ"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śrāvakaḥ",
+    "lemma": "śrāvakaḥ",
+    "zh": "声闻",
+    "pos": "n",
+    "notes": [
+      "√śru 闻；闻佛声教者"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "śṛṇoti",
+    "lemma": "śru",
+    "zh": "他听",
+    "pos": "v",
+    "notes": [
+      "第五类，词干 śṛṇo-，先整体记"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l01"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "sthānam",
+    "lemma": "sthānam",
+    "zh": "地方；位置",
+    "pos": "n",
+    "notes": [
+      "中性；由 sthā「站立」派生。"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "sthāpyate",
+    "lemma": "sthāpyate",
+    "zh": "被放置",
+    "pos": "v",
+    "notes": [
+      "sthā 的使役词干 sthāp- 再加被动 -ya-。"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "sthāsyati",
+    "lemma": "sthā",
+    "zh": "将站；将立",
+    "pos": "v",
+    "notes": [
+      "sthā 的将来时第三人称单数"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "sthūlaḥ",
+    "lemma": "sthūla",
+    "zh": "粗壮的；胖的",
+    "pos": "adj",
+    "notes": [
+      "sth 要连读，不要插入元音"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "stūpaḥ",
+    "lemma": "stūpaḥ",
+    "zh": "塔；窣堵坡",
+    "pos": "n",
+    "notes": [
+      "供佛舍利之建筑"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "śubhā",
+    "lemma": "śubha",
+    "zh": "吉祥的（阴性）",
+    "pos": "adj",
+    "notes": [
+      "阳性 śubhaḥ，中性 śubham"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śubhaḥ",
+    "lemma": "śubha",
+    "zh": "吉祥的；好的",
+    "pos": "adj",
+    "notes": [
+      "中性 śubham 常用作「吉兆」"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "sukhaduḥkham",
+    "lemma": "sukhaduḥkha",
+    "zh": "苦与乐",
+    "pos": "n",
+    "notes": [
+      "dvandva，中性单数"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "sukham",
+    "lemma": "sukha",
+    "zh": "快乐；舒适",
+    "pos": "n",
+    "notes": [
+      "中性，主格 sukham",
+      "中性，与前缀 su- 同源"
+    ],
+    "units": [
+      8,
+      11
+    ],
+    "lessons": [
+      "u08l05",
+      "u11l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "sukhena",
+    "lemma": "sukha",
+    "zh": "安乐地；以安乐",
+    "pos": "n",
+    "notes": [
+      "sukha 的工具格单数，作方式状语"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "sundaraḥ",
+    "lemma": "sundara",
+    "zh": "美的",
+    "pos": "adj",
+    "notes": [
+      "阳性主格；中性 sundaram，阴性 sundarā"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "sundaram",
+    "lemma": "sundara",
+    "zh": "美的（中性）",
+    "pos": "adj",
+    "notes": [
+      "阳性 sundaraḥ，阴性 sundarī"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śūnyaḥ",
+    "lemma": "śūnyaḥ",
+    "zh": "空的；空虚的",
+    "pos": "adj",
+    "notes": [
+      "śūnyatā 的词根形容词"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "śūnyatā",
+    "lemma": "śūnyatā",
+    "zh": "空性；空",
+    "pos": "n",
+    "notes": [
+      "śūnya 空的 + -tā",
+      "śūnya 空的 + -tā 抽象名词"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l02"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "sūryaḥ",
+    "lemma": "sūryaḥ",
+    "zh": "太阳",
+    "pos": "n",
+    "notes": [
+      "阳性；词根 sūr 意为「发光、照耀」。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "sūtram",
+    "lemma": "sūtram",
+    "zh": "经；契经",
+    "pos": "n",
+    "notes": [
+      "线、贯串；佛说之经"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "svabhāvaḥ",
+    "lemma": "svabhāvaḥ",
+    "zh": "自性；自身性",
+    "pos": "n",
+    "notes": [
+      "sva 自 + bhāva 有"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "svādu",
+    "lemma": "svādu",
+    "zh": "美味的",
+    "pos": "adj",
+    "notes": [
+      "修饰中性名词时就是 svādu"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "śvaḥ",
+    "lemma": "śvas",
+    "zh": "明天",
+    "pos": "ind",
+    "notes": [
+      "指将来的事",
+      "不变词，常放句首"
+    ],
+    "units": [
+      7,
+      9
+    ],
+    "lessons": [
+      "u07l04",
+      "u09l01"
+    ],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "sa": "svāhā",
+    "lemma": "svāhā",
+    "zh": "娑婆诃；圆满",
+    "pos": "ind",
+    "notes": [
+      "咒语末尾的奉献语"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "svajanāḥ",
+    "lemma": "svajana",
+    "zh": "亲人（复数）",
+    "pos": "n",
+    "notes": [
+      "svajana 的复数主格，常指自家人"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "svalpam",
+    "lemma": "svalpa",
+    "zh": "少许的；一点点",
+    "pos": "adj",
+    "notes": [
+      "中性 -am，可单独用作「少量」"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "svāmī",
+    "lemma": "svāmī",
+    "zh": "主人；丈夫",
+    "pos": "n",
+    "notes": [
+      "阳性；也用作对修行者的尊称。"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "svapiti",
+    "lemma": "svapiti",
+    "zh": "睡",
+    "pos": "v",
+    "notes": [
+      "第二类；名词 svapna「梦、睡眠」。"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "svapnaḥ",
+    "lemma": "svapna",
+    "zh": "梦；梦想",
+    "pos": "n",
+    "notes": [
+      "阳性 a-词干"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tadā",
+    "lemma": "tadā",
+    "zh": "那时",
+    "pos": "ind",
+    "notes": [
+      "主句的呼应词"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tantram",
+    "lemma": "tantram",
+    "zh": "续；怛特罗",
+    "pos": "n",
+    "notes": [
+      "线、相续；密续之通名"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "tapaḥ",
+    "lemma": "tapas",
+    "zh": "苦行；热力",
+    "pos": "n",
+    "notes": [
+      "以 -as 结尾，主格 tapaḥ"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tārā",
+    "lemma": "tārā",
+    "zh": "星星",
+    "pos": "n",
+    "notes": [
+      "阴性；夜空中的星，常见于诗颂比喻。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "tarhi",
+    "lemma": "tarhi",
+    "zh": "那么",
+    "pos": "ind",
+    "notes": [
+      "放主句首，可省略"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tasmin",
+    "lemma": "tad",
+    "zh": "在他那儿；在那里（处所格）",
+    "pos": "pron",
+    "notes": [
+      "回指前面的处所格"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tasya",
+    "lemma": "tad",
+    "zh": "他的；它的（属格）",
+    "pos": "pron",
+    "notes": [
+      "回指前面的属格"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tat",
+    "lemma": "tad",
+    "zh": "它；那个",
+    "pos": "pron",
+    "notes": [
+      "中性主格/宾格单数",
+      "主句里与 yat 呼应"
+    ],
+    "units": [
+      2,
+      11
+    ],
+    "lessons": [
+      "u02l01",
+      "u11l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tāta",
+    "lemma": "tāta",
+    "zh": "父亲；先生",
+    "pos": "n",
+    "notes": [
+      "亲昵的称呼，也可用来称呼受尊敬的长辈。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "tataḥ",
+    "lemma": "tatas",
+    "zh": "然后；之后",
+    "pos": "ind",
+    "notes": [
+      "最中性的叙事推进词"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "taṭam",
+    "lemma": "taṭa",
+    "zh": "岸；河岸",
+    "pos": "n",
+    "notes": [
+      "两个都是卷舌 ṭ"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tathā",
+    "lemma": "tathā",
+    "zh": "如此；这样",
+    "pos": "ind",
+    "notes": [
+      "tathāgata（如来）的第一个词"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [
+      "u01l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tathāgataḥ",
+    "lemma": "tathāgataḥ",
+    "zh": "如来",
+    "pos": "n",
+    "notes": [
+      "tathā-gata 如去／如来说法"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "tathatā",
+    "lemma": "tathatā",
+    "zh": "真如；如性",
+    "pos": "n",
+    "notes": [
+      "tathā 如 + -tā；诸法实相"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "tatra",
+    "lemma": "tatra",
+    "zh": "那里",
+    "pos": "ind",
+    "notes": [
+      "远指地点",
+      "与 atra 成对记"
+    ],
+    "units": [
+      2,
+      3
+    ],
+    "lessons": [
+      "u02l04",
+      "u03l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tattvam",
+    "lemma": "tattvam",
+    "zh": "真实；实相",
+    "pos": "n",
+    "notes": [
+      "tat 那 + -tva；如是之性"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "tava",
+    "lemma": "tvam",
+    "zh": "你的",
+    "pos": "pron",
+    "notes": [
+      "tvam 的属格"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tāvat",
+    "lemma": "tāvat",
+    "zh": "那时；直到",
+    "pos": "ind",
+    "notes": [
+      "与 yāvat 呼应，表时间上限。"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "tayā",
+    "lemma": "tad",
+    "zh": "被她",
+    "pos": "pron",
+    "notes": [
+      "sā 的工具格"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tena",
+    "lemma": "tad",
+    "zh": "被他；被它",
+    "pos": "pron",
+    "notes": [
+      "saḥ 的工具格"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tiktam",
+    "lemma": "tiktam",
+    "zh": "苦的",
+    "pos": "adj",
+    "notes": [
+      "中性 -am 形式"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tīre",
+    "lemma": "tīra",
+    "zh": "在岸边",
+    "pos": "n",
+    "notes": [
+      "tīra 的处所格"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tiṣṭhati",
+    "lemma": "sthā",
+    "zh": "他站；他停留",
+    "pos": "v",
+    "notes": [
+      "词干 tiṣṭha-"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l01"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "tri",
+    "lemma": "tri",
+    "zh": "三",
+    "pos": "num",
+    "notes": [
+      "trayaḥ / trīṇi / tisraḥ"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [
+      "u06l01"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "sa": "trikāyaḥ",
+    "lemma": "trikāyaḥ",
+    "zh": "三身",
+    "pos": "n",
+    "notes": [
+      "法身、报身、化身"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "trilokaḥ",
+    "lemma": "triloka",
+    "zh": "三界",
+    "pos": "n",
+    "notes": [
+      "tri 三 + loka 世界"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "triśaraṇam",
+    "lemma": "triśaraṇam",
+    "zh": "三皈依",
+    "pos": "n",
+    "notes": [
+      "归依佛、法、僧"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "triyānam",
+    "lemma": "triyānam",
+    "zh": "三乘",
+    "pos": "n",
+    "notes": [
+      "声闻、缘觉、菩萨"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "tṛṣṇā",
+    "lemma": "tṛṣṇā",
+    "zh": "爱；渴爱",
+    "pos": "n",
+    "notes": [
+      "√tṛṣ 渴；十二缘起支"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "tu",
+    "lemma": "tu",
+    "zh": "但是",
+    "pos": "ind",
+    "notes": [
+      "放在对比分句开头"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l04"
+    ],
+    "tags": [
+      "particle"
+    ]
+  },
+  {
+    "sa": "tuṣyati",
+    "lemma": "tuṣ",
+    "zh": "他满意；他高兴",
+    "pos": "v",
+    "notes": [
+      "第四类，ṣ 是卷舌咝音"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l02"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "tvam",
+    "lemma": "tvam",
+    "zh": "你",
+    "pos": "pron",
+    "notes": [
+      "第二人称单数"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [
+      "u02l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "tvayā",
+    "lemma": "tvam",
+    "zh": "被你",
+    "pos": "pron",
+    "notes": [
+      "tvam 的工具格"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "uccaiḥ",
+    "lemma": "uccaiḥ",
+    "zh": "大声地；高高地",
+    "pos": "ind",
+    "notes": [
+      "uccais 的连写形"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "ucyate",
+    "lemma": "ucyate",
+    "zh": "被说；被称为",
+    "pos": "v",
+    "notes": [
+      "vac 的被动；**注意词干元音升级为 ucya-**。"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "udake",
+    "lemma": "udaka",
+    "zh": "在水中",
+    "pos": "n",
+    "notes": [
+      "中性 a-词干，-e"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "udyānam",
+    "lemma": "udyānam",
+    "zh": "花园；园林",
+    "pos": "n",
+    "notes": [
+      "中性；由 ud-「向上」+ yāna 构成，供人游憩之地。"
+    ],
+    "units": [
+      2
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "udyogaḥ",
+    "lemma": "udyogaḥ",
+    "zh": "工作；努力",
+    "pos": "n",
+    "notes": [
+      "阳性；ud-「向上」+ yuj「联结」，即投入。"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "upādāya",
+    "lemma": "upādāya",
+    "zh": "依于；基于",
+    "pos": "ind",
+    "notes": [
+      "绝对分词，字面「取了之后」",
+      "upa-ā-dā 的绝对分词，「依……而」"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l03"
+    ],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "upari",
+    "lemma": "upari",
+    "zh": "在……之上",
+    "pos": "ind",
+    "notes": [
+      "前接属格"
+    ],
+    "units": [
+      10
+    ],
+    "lessons": [
+      "u10l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "upāsakaḥ",
+    "lemma": "upāsakaḥ",
+    "zh": "优婆塞；近事男",
+    "pos": "n",
+    "notes": [
+      "亲近三宝的在家男众"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "upāsikā",
+    "lemma": "upāsikā",
+    "zh": "优婆夷；近事女",
+    "pos": "n",
+    "notes": [
+      "亲近三宝的在家女众"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "upaviśati",
+    "lemma": "upaviśati",
+    "zh": "坐下",
+    "pos": "v",
+    "notes": [
+      "upa-「靠近」+ viś「坐」。"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "upāyaḥ",
+    "lemma": "upāyaḥ",
+    "zh": "方便；方法",
+    "pos": "n",
+    "notes": [
+      "upa-√i 接近；善巧手段"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "uṣṇam",
+    "lemma": "uṣṇa",
+    "zh": "热的",
+    "pos": "adj",
+    "notes": [
+      "卷舌 ṣ，不是 usnam"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "uttamam",
+    "lemma": "uttama",
+    "zh": "好；太好了",
+    "pos": "ind",
+    "notes": [
+      "应答时的常用词"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "uttiṣṭhati",
+    "lemma": "uttiṣṭh",
+    "zh": "他起床；他起身",
+    "pos": "v",
+    "notes": [
+      "ut + sthā，词干 uttiṣṭha-"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [
+      "u05l05"
+    ],
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "sa": "vadati",
+    "lemma": "vad",
+    "zh": "说；讲话",
+    "pos": "v",
+    "notes": [
+      "第一类，词干 vada-"
+    ],
+    "units": [
+      4
+    ],
+    "lessons": [
+      "u04l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "vairam",
+    "lemma": "vairam",
+    "zh": "敌意；仇恨",
+    "pos": "n",
+    "notes": [
+      "发音例词：ai 双元音。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "vajraḥ",
+    "lemma": "vajraḥ",
+    "zh": "金刚；雷霆",
+    "pos": "n",
+    "notes": [
+      "不可摧毁者"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "vāme",
+    "lemma": "vāma",
+    "zh": "在左边",
+    "pos": "adj",
+    "notes": [
+      "vāma 的处所格，与 dakṣiṇe 相对"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "vanam",
+    "lemma": "vana",
+    "zh": "森林",
+    "pos": "n",
+    "notes": [
+      "中性 -am 结尾",
+      "中性 -am"
+    ],
+    "units": [
+      1,
+      4
+    ],
+    "lessons": [
+      "u01l01",
+      "u04l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "vanāt",
+    "lemma": "vana",
+    "zh": "从森林里",
+    "pos": "n",
+    "notes": [
+      "vana 的从格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "vane",
+    "lemma": "vana",
+    "zh": "在森林里",
+    "pos": "n",
+    "notes": [
+      "vanam 的处所格"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [
+      "u07l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "vāṇijyam",
+    "lemma": "vāṇijyam",
+    "zh": "商业；贸易",
+    "pos": "n",
+    "notes": [
+      "中性；商人的营生。"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "vātaḥ",
+    "lemma": "vātaḥ",
+    "zh": "风",
+    "pos": "n",
+    "notes": [
+      "阳性；与 vāyu 同源，也指体内的「风」。"
+    ],
+    "units": [
+      1
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "vihāraḥ",
+    "lemma": "vihāraḥ",
+    "zh": "寺院；精舍",
+    "pos": "n",
+    "notes": [
+      "阳性；原义「游憩之所」，后指僧园。"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "vijayaḥ",
+    "lemma": "vijayaḥ",
+    "zh": "胜利",
+    "pos": "n",
+    "notes": [
+      "阳性；vi- + ji「征服」。"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "vijñānam",
+    "lemma": "vijñānam",
+    "zh": "识；了别",
+    "pos": "n",
+    "notes": [
+      "vi-jñā 分别知；五蕴之一"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "vikrīṇāti",
+    "lemma": "vikrīṇāti",
+    "zh": "卖",
+    "pos": "v",
+    "notes": [
+      "第九类；vi- + krī「买」表示「卖出去」。"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "vinayaḥ",
+    "lemma": "vinayaḥ",
+    "zh": "律；毗奈耶",
+    "pos": "n",
+    "notes": [
+      "vi-√nī 调伏；僧团戒律"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "vipākaḥ",
+    "lemma": "vipākaḥ",
+    "zh": "异熟；果报",
+    "pos": "n",
+    "notes": [
+      "vi-pac 成熟"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "vipaśyanā",
+    "lemma": "vipaśyanā",
+    "zh": "观；毗婆舍那",
+    "pos": "n",
+    "notes": [
+      "vi-paś 观见；如实观察"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "vīryam",
+    "lemma": "vīryam",
+    "zh": "精进；勤",
+    "pos": "n",
+    "notes": [
+      "√vīr 勇健；六度之一"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "viśālam",
+    "lemma": "viśāla",
+    "zh": "宽广的（中性）",
+    "pos": "adj",
+    "notes": [
+      "修饰中性名词，如 gṛham"
+    ],
+    "units": [
+      3
+    ],
+    "lessons": [
+      "u03l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "vismarati",
+    "lemma": "vismarati",
+    "zh": "忘记",
+    "pos": "v",
+    "notes": [
+      "vi- 表示「离开」，把记忆「丢开」。"
+    ],
+    "units": [
+      5
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "vitataḥ",
+    "lemma": "vitata",
+    "zh": "展开的；铺开的",
+    "pos": "adj",
+    "notes": [
+      "vi-tan 的过去分词"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "vīthiḥ",
+    "lemma": "vīthiḥ",
+    "zh": "街道；道路",
+    "pos": "n",
+    "notes": [
+      "阴性；两旁有房屋的路。"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "vṛkṣaḥ",
+    "lemma": "vṛkṣa",
+    "zh": "树",
+    "pos": "n",
+    "notes": [
+      "阳性 a-词干"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "vṛṣabhaḥ",
+    "lemma": "vṛṣabha",
+    "zh": "公牛",
+    "pos": "n",
+    "notes": [
+      "也可指「雄健者」"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "vṛttam",
+    "lemma": "vṛttam",
+    "zh": "诗律；行为",
+    "pos": "n",
+    "notes": [
+      "中性；按音节数分类的格律。"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "vyavadānam",
+    "lemma": "vyavadānam",
+    "zh": "清净；还净",
+    "pos": "n",
+    "notes": [
+      "vi-ava-√dā 洗净"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [],
+    "tags": [
+      "佛典"
+    ]
+  },
+  {
+    "sa": "yā",
+    "lemma": "yad",
+    "zh": "那个……的（阴性主格单数）",
+    "pos": "pron",
+    "notes": [
+      "先行词是阴性时用"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yācate",
+    "lemma": "yācate",
+    "zh": "乞求；请求",
+    "pos": "v",
+    "notes": [
+      "Ā 类（中间语态），词根 yāc。"
+    ],
+    "units": [
+      6
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "yadā",
+    "lemma": "yadā",
+    "zh": "当……时",
+    "pos": "ind",
+    "notes": [
+      "与 tadā 成对使用"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [
+      "u08l04"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yadi",
+    "lemma": "yadi",
+    "zh": "如果",
+    "pos": "ind",
+    "notes": [
+      "放从句首，一般不省略"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l03"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yaḥ",
+    "lemma": "yad",
+    "zh": "那个……的（阳性主格单数）",
+    "pos": "pron",
+    "notes": [
+      "关系代词，引导从句"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yānam",
+    "lemma": "yānam",
+    "zh": "车；乘具",
+    "pos": "n",
+    "notes": [
+      "中性；由 yā「行走」派生。",
+      "运载之义；大乘、小乘等"
+    ],
+    "units": [
+      7
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展",
+      "佛典"
+    ]
+  },
+  {
+    "sa": "yasmai",
+    "lemma": "yad",
+    "zh": "给谁（与格）",
+    "pos": "pron",
+    "notes": [
+      "与 tasmai 呼应"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yasmāt",
+    "lemma": "yad",
+    "zh": "从谁；因为谁（从格）",
+    "pos": "pron",
+    "notes": [
+      "与 tasmāt 呼应"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yasmin",
+    "lemma": "yad",
+    "zh": "在谁那儿；在其中（处所格）",
+    "pos": "pron",
+    "notes": [
+      "与 tasmin 呼应"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yasya",
+    "lemma": "yad",
+    "zh": "谁的（属格）",
+    "pos": "pron",
+    "notes": [
+      "与 tasya 呼应"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l02"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yat",
+    "lemma": "yad",
+    "zh": "那个……的（中性主格、宾格）",
+    "pos": "pron",
+    "notes": [
+      "中性主格与宾格同形"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [
+      "u11l01"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yataḥ",
+    "lemma": "yataḥ",
+    "zh": "因为；从…",
+    "pos": "ind",
+    "notes": [
+      "既可表原因，也可表「从何处」。"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "yathā",
+    "lemma": "yathā",
+    "zh": "如同；按照",
+    "pos": "ind",
+    "notes": [
+      "yathā…tathā…「如…则…」。"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "yātrā",
+    "lemma": "yātrā",
+    "zh": "旅行；行程",
+    "pos": "n",
+    "notes": [
+      "阴性 ā-词干，主格即 yātrā"
+    ],
+    "units": [
+      9
+    ],
+    "lessons": [
+      "u09l05"
+    ],
+    "tags": []
+  },
+  {
+    "sa": "yāvat",
+    "lemma": "yāvat",
+    "zh": "直到；若干",
+    "pos": "ind",
+    "notes": [
+      "常与 tāvat 配对：「直到…就…」。"
+    ],
+    "units": [
+      11
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "yuddham",
+    "lemma": "yuddham",
+    "zh": "战争；战斗",
+    "pos": "n",
+    "notes": [
+      "中性；由 yudh「作战」派生。"
+    ],
+    "units": [
+      8
+    ],
+    "lessons": [],
+    "tags": [
+      "扩展"
+    ]
+  },
+  {
+    "sa": "yuyutsavaḥ",
+    "lemma": "yuyutsu",
+    "zh": "渴望战斗的",
+    "pos": "adj",
+    "notes": [
+      "√yudh 的愿望式分词"
+    ],
+    "units": [
+      12
+    ],
+    "lessons": [
+      "u12l01"
+    ],
+    "tags": []
+  }
+]
